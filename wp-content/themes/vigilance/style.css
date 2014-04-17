@@ -1,0 +1,91 @@
+/*
+Theme Name: Vigilance
+Theme URI: http://thethemefoundry.com/vigilance/
+Description: A lean and clean WordPress theme featuring a customer header image, customizable colors, and front page alert box.
+Version: 1.5-wpcom
+Author: The Theme Foundry
+Author URI: http://thethemefoundry.com/
+Tags: fixed-width, two-columns, white, red, light, right-sidebar, theme-options, custom-header, custom-colors, sticky-post,  rtl-language-support, translation-ready, custom-menu, featured-images, blog, business, clean, conservative, corporate, light, minimal, modern
+*/
+
+/*
+	Copyright (C) 2008 - 2010 The Theme Foundry
+
+	This program is free software: you can redistribute it and/or modify
+	it under the terms of the GNU General Public License as published by
+	the Free Software Foundation, either version 3 of the License, or
+	(at your option) any later version.
+
+	This program is distributed in the hope that it will be useful,
+	but WITHOUT ANY WARRANTY; without even the implied warranty of
+	MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+	GNU General Public License for more details.
+
+	You should have received a copy of the GNU General Public License
+	along with this program.  If not, see <http://www.gnu.org/licenses/>.
+
+*/
+
+/* Import Stylesheets
+-----------------------------------------------------------*/
+@import url("stylesheets/master.css");
+/* @import url("functions/stylesheets/style-options.php"); */
+/* Can't import a PHP file on WordPress.com, so it's loaded via functions.php instead. */
+
+/* Required WordPress Classes, don't remove these.
+-----------------------------------------------------------*/
+.aligncenter {
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+}
+.alignleft { float: left; }
+.alignright { float: right; }
+
+/* WordPress.com
+---------------------------
+*/
+body .vp_wsbutton {
+	margin: auto !important;
+}
+ul li.widget_twitter ul li a {
+	display: inline;
+	padding: 0;
+	background: none;
+}
+ul li.widget_twitter ul li a:hover {
+	background: none;
+}
+ul li.widget_box { /* fixes titleless widget */
+	padding-top: 25px;
+}
+.entry, .widget {
+	word-wrap: break-word;
+}
+.gallery {
+	padding-bottom: 20px;
+}
+.widget_image {
+	padding: 15px 0 0;
+}
+/* Calendar widget */
+.widget_calendar table {
+	margin: .5em 0;
+	border: 0;
+	font-size: 1.4em;
+}
+.widget_calendar table tr {
+	border: 0;
+}
+.widget_calendar table th {
+	color: #737373;
+	text-transform: uppercase;
+}
+.widget_calendartable td, .widget_calendar table th {
+	padding: 5px 8px;
+	border: 0;
+}
+.thin-sidebar .widget_calendar table td, .thin-sidebar .widget_calendar table th {
+	padding: 0; /* display small calendar in thin sidebar */
+	font-size: 1em;
+}

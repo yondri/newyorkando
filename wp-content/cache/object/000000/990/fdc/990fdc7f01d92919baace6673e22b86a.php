@@ -1,0 +1,26 @@
+�IOS<?php exit; ?>a:1:{s:7:"content";O:8:"stdClass":24:{s:2:"ID";i:168;s:11:"post_author";s:1:"2";s:9:"post_date";s:19:"2011-02-21 23:35:55";s:13:"post_date_gmt";s:19:"2011-02-21 23:35:55";s:12:"post_content";s:4434:"<div class="asideBlock">
+<strong>Transporte: </strong>
+Línea 7. Estación 45th Rd/Courthouse Square
+Línea G. Estación 21st St/Van Alst
+<strong>Dirección:</strong>
+Jackson Avenue con Davis Street
+<a title="Long Island City, Queens" href="/barrios/queens/long-island-city" target="_blank">Long Island City</a>
+<br>
+[mappress mapid="32"]</div>
+<h2>5 Pointz la meca del graffiti se acabó</h2>
+<p style="text-align: center;"><em>El martes 19 de noviembre de 2013 despertamos con la triste noticia de que <strong>5 Pointz se acabó</strong>. Amaneció pintado de blanco y pronto a ser demolido para dejar espacio a dos nuevos condominios de lujo. Esto es una gran pérdida no solo para Nueva York, sino para el arte contemporáneo. Decidimos dejarles intacto este post donde les contábamos la magia de 5 Pointz, como testigo de lo que se perdió aquí</em>
+________________________________________________</p>
+<img class="alignnone  wp-image-762" title="5-Pointz-Queens-Newyorkando" alt="Foto de Andrea H. Madrid / Newyorkando" src="http://www.newyorkando.com/wpnyando/wp-content/uploads/2011/02/5-Pointz-Queens-Newyorkando.jpg" width="448" height="336" />
+
+A unas pocas cuadras del Centro de Arte Contemporáneo <a href="http://www.newyorkando.com/museos/centro-de-arte-contemporaneo-ps1">PS1</a> está la "<strong>meca de los graffitis</strong>". Hablamos de una exhibición al aire libre, donde artistas de todo el mundo han realizado sus obras sobre las paredes de una vieja fábrica de <a href="http://www.newyorkando.com/barrios/queens/long-island-city">Long Island City</a> en <a href="/barrios/queens">Queens</a> (y en los postes, los basureros, las puertas y en Ustedes si se quedan mucho tiempo ahí). Esta es una de las visitas gratuitas que les pueden hacer sentir más cerca de Nueva York. Una buena idea es complementar la visita al <a href="http://www.newyorkando.com/museos/centro-de-arte-contemporaneo-ps1">PS1</a> con el recorrido de 5 Pointz.
+
+Al principio esta fue una iniciativa espontánea, que luego se institucionalizó gracias al apoyo del dueño del edificio y de varios artistas organizados. Lo bautizaron 5 Pointz queriendo decir que aquí coincidían los 5 distritos de la ciudad. Lo cierto es que la visión original quedó corta, ya que este complejo industrial abandonado se ha convertido en el epicentro mundial del arte del aerosol.
+
+Este sitio bulle de actividad, en un día cualquiera es posible encontrar a celebridades, músicos, dj´s, raperos, break dancers, además de cineastas y fotógrafos haciendo lo suyo alrededor del complejo. Esto sumado a cientos de admiradores, locales y turistas, contemplando este dinámico museo callejero con más de 350 murales. Para empaparse de esta dinámica es bueno recorrer la calle, pero si lo que se quiere es una buena panorámica, la mejor es desde la estación elevada de la línea 7 del metro.
+
+Esta muestra está organizada bajo de la curaduría del veterano graffitero Jonathan Cohen, mejor conocido por su firma “Meres One”. Fue Cohen quien recuperó el sitio del vandalismo en 2005 y lo llevó a lo que es hoy, el 5 Pointz también llamado <em>The Institute of Higher Burnin</em>. El próximo plan de Cohen es establecer aquí un taller formal para institucionalizar el graffiti como disciplina artística.
+
+Entre las pinturas más admiradas están enormes murales alegóricos sobre el bien y el mal, versiones modernas de Rembrandt, variaciones y homenajes de comics y de la edad dorada de la revista Mad. Lo interesante es que estas paredes cambian constantemente y que siempre están abiertas a nuevas participaciones e intervenciones. Quien desee pintar aquí debe pedir autorización a MeresOne@5ptz.com, igualmente pueden escribirle para que les de una visita guiada.
+
+Cohen siempre aclara que esto no es graffiti, sino aerografía, el arte del aerosol. Dice que el graffiti es una palabra para etiquetar a lo vándalos que rayan y ensucian las paredes de la ciudad. El aerosol por el contrario, es una técnica que lleva horas y días, es una forma de caligrafía. Al visitar 5 Pointz se hace evidente esta diferencia, un espacio tecnicolor en riesgo, pues se ha filtrado a la prensa que el dueño de la construcción, Jerry Walkoff, está evaluado venderla. A apurarse y a tomar buenas fotografías, pues la meca del arte del aerosol al parecer tiene sus días contados.
+<pre>Foto de Andrea H. Madrid</pre>";s:10:"post_title";s:8:"5 Pointz";s:12:"post_excerpt";s:0:"";s:11:"post_status";s:7:"publish";s:14:"comment_status";s:4:"open";s:11:"ping_status";s:4:"open";s:13:"post_password";s:0:"";s:9:"post_name";s:8:"5-pointz";s:7:"to_ping";s:0:"";s:6:"pinged";s:0:"";s:13:"post_modified";s:19:"2013-11-19 19:38:30";s:17:"post_modified_gmt";s:19:"2013-11-19 19:38:30";s:21:"post_content_filtered";s:0:"";s:11:"post_parent";i:4;s:4:"guid";s:26:"http://www.newyorkando.com";s:10:"menu_order";i:0;s:9:"post_type";s:4:"page";s:14:"post_mime_type";s:0:"";s:13:"comment_count";s:1:"1";s:6:"filter";s:3:"raw";}}

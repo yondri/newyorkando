@@ -1,0 +1,12 @@
+�JOS<?php exit; ?>a:1:{s:7:"content";O:8:"stdClass":24:{s:2:"ID";i:5;s:11:"post_author";s:1:"1";s:9:"post_date";s:19:"2011-01-26 12:32:43";s:13:"post_date_gmt";s:19:"2011-01-26 12:32:43";s:12:"post_content";s:1391:"<img class="alignnone size-full wp-image-258" title="Monumentos NewYorkando" src="http://www.newyorkando.com/wpnyando/wp-content/uploads/2011/01/Monumentos.jpg" alt="" width="640" height="426" />
+
+Podría pensarse que los monumentos son clichés. Sí, es cierto, son sitios llenos de turistas, cámaras y colas interminables, pero no por eso deben dejar de visitarlos. Son hitos que nos permiten entender la lógica de la metrópolis. La planificación es la clave para una visita privilegiada. Hay trucos para evitar las colas y evadir las multitudes. Aquí te los entregamos, para que te enamores de la ciudad sin traumas:
+<ul>
+	<li><a href="http://www.newyorkando.com/monumentos/estatua-de-la-libertad">Estatua de la Libertad</a></li>
+	<li><a href="http://www.newyorkando.com/monumentos/isla-de-ellis">Isla de Ellis</a></li>
+	<li><a href="/que-ver/monumentos/911-memorial">9/11 Memorial</a></li>
+	<li><a href="/que-ver/monumentos/st-pauls-chapel">Capilla St. Paul’s</a></li>
+	<li><a href="http://www.newyorkando.com/monumentos/isla-de-los-gobernadores">Isla de los Gobernadores </a></li>
+	<li><a href="http://www.newyorkando.com/monumentos/salon-de-la-fama-americanos-ilustres">Salón de la Fama de Americanos Ilustres</a></li>
+</ul>
+<pre>Foto de <a href="http://www.flickr.com/photos/flickr4jazz/3667915299/">Jazz Guy</a> bajo una licencia Creative Commons (CC BY 2.0)</pre>";s:10:"post_title";s:10:"Monumentos";s:12:"post_excerpt";s:0:"";s:11:"post_status";s:7:"publish";s:14:"comment_status";s:4:"open";s:11:"ping_status";s:6:"closed";s:13:"post_password";s:0:"";s:9:"post_name";s:10:"monumentos";s:7:"to_ping";s:0:"";s:6:"pinged";s:0:"";s:13:"post_modified";s:19:"2011-12-15 22:27:56";s:17:"post_modified_gmt";s:19:"2011-12-15 22:27:56";s:21:"post_content_filtered";s:0:"";s:11:"post_parent";i:9;s:4:"guid";s:46:"http://www.newyorkando.com/wpnyando/?page_id=5";s:10:"menu_order";i:0;s:9:"post_type";s:4:"page";s:14:"post_mime_type";s:0:"";s:13:"comment_count";s:1:"0";s:6:"filter";s:3:"raw";}}

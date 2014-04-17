@@ -1,0 +1,38 @@
+�IOS<?php exit; ?>a:1:{s:7:"content";O:8:"stdClass":24:{s:2:"ID";i:403;s:11:"post_author";s:1:"2";s:9:"post_date";s:19:"2011-06-05 16:00:06";s:13:"post_date_gmt";s:19:"2011-06-05 16:00:06";s:12:"post_content";s:6916:"<div class="asideBlock">
+<h2>¡Hoteles baratos en Chinatown!</h2>
+¿Buscan <strong>hoteles económicos y céntricos</strong>? alojarse en el Chinatown es una buena opción. <a title="Hoteles en Chinatown" href="http://www.booking.com/district/us/new-york/chinatown.es.html?aid=347381;label=newyorkando;sid=12d2f47f7407c040dd5a4b4a2565e579;dcid=1;inac=1" target="_blank">Revisen aquí</a>.
+
+<strong>Cómo llegar: </strong>
+Líneas B, C, 1. Estaciones de las calles 110 a la 125.
+<strong>Ubicación:</strong>
+Delimita con <a title="visitar East Village" href="http://www.newyorkando.com/barrios/manhattan/downtown/east-village" target="_blank">East Village</a> y <a href="http://www.newyorkando.com/barrios/manhattan/downtown/soho">SOHO</a> al norte (calle Delancey) y el <a href="http://www.newyorkando.com/barrios/manhattan/downtown/centro-civico">Centro Cívico</a> al sur (calle Chambers), y con <a href="http://www.newyorkando.com/barrios/manhattan/downtown/tribeca">TriBeCa</a> al oeste (calle Broadway) y con la calle East Broadway al este
+[mappress mapid="78"]
+
+</div>
+Dicen los neoyorquinos que el <strong>Chinatown</strong> es la colonia asiática más grande en occidente (seguro que en San Francisco no estarían de acuerdo). Independiente si es la más grande o no, lo cierto es que el <strong>Chinatown de Manhattan</strong> es muy antiguo e importante y un <strong>lugar de Nueva York que hay que visitar</strong>. Sigan leyendo para que no les pase como Woody Allen: "¿Puede el hombre conocer el universo?, Dios santo, no perderse en Chinatown ya es bastante difícil".
+
+<img class="alignnone  wp-image-435" title="Chinatown-NewYorkando" alt="Foto de Andrea H. Madrid / Newyorkando" src="http://www.newyorkando.com/wpnyando/wp-content/uploads/2011/06/Chinatown-NewYorkando-2.jpg" width="434" height="326" />
+<h2>Qué ver en el Chinatown</h2>
+Para <strong>conocer el Chinatown</strong> lo primero que les sugerimos es <strong>visitar el Columbus Park</strong>, allí los chinos cantan, practican taichi y juegan mahjong en su propio mundo e ignorando completamente a los visitantes. Es que los chinos tienen esa capacidad de mantenerse en su burbuja cultural a donde sea que vayan.
+<h2>Comprar en el Chinatown</h2>
+Cuando de comprar se trata, quizás no se entiendan bien con los vendedores de las cientos de interesantes <strong>tiendas del barrio</strong>, pero los dólares si lo lograrán. Es importante que lleven dinero efectivo, pues las tarjetas de crédito -con excepción de los restaurantes- no son bienvenidas en los negocios.
+
+Si les gusta recorrer tiendas hay mucho <strong>qué comprar</strong> en las calles Canal, Mulberry e East Broadway. Pero no se imaginen ese Chinatown con tiendas misteriosas de las películas, hoy lo que más encontrarán son baratijas y productos pirata. Pero entre las tiendas en serie también encontrarán tiendas de té, farmacias con hierbas milenarias, pescaderías donde rebanan viva la mercancía, patos y cerdos colgando en las ventanas, frutos exóticos, masajistas y muchas escaleras a sótanos misteriosos (pero no hallarán a Gizmo, miren que ese animalejo es del Chinatown de Francisco).
+<h2>Dónde comer en el Chinatown</h2>
+Hay <strong>más de 200 restaurantes en el Chinatown</strong>. No les recomendamos ninguno en particular pues hay muchos geniales. Sigan su instinto y si quieren irse a la segura revisen en las puertas de los locales, pues los más famosos colocan las reseñas del Zagat sus puertas o vitrinas.
+<h2>Historia del Chinatown</h2>
+Los primeros asiáticos en llegar al Chinatown fueron inmigrantes chinos -de allí su nombre- pero hoy conviven en este <a title="Barrios de Nueva York" href="http://www.newyorkando.com/barrios" target="_blank">barrio de Manhattan</a> gente de Vietman, Malasia, Taiwan entre otros. Tan grande ha sido la inmigración asiática que desde los setenta <a href="http://www.newyorkando.com/barrios/manhattan/downtown/little-italy">Little Italy</a>, e incluso <a href="http://www.newyorkando.com/barrios/manhattan/downtown/nolita">Nolita</a>, han cedido cada vez más terreno al Chinatown.
+<h3>Centro de las mafias chinas</h3>
+Hasta hace poco el Chinatown era el <strong>centro de operaciones de mafias chinas</strong>, organizaciones encubiertas (Tong en cantonés) cuyo objetivo era apoyar a su comunidad, integrar a los inmigrantes y defenderse del racismo, operaciones que sostenían generalmente con actividades ilícitas (una versión asiática de las <em>mobs </em>italianas).
+
+Hasta los 90 existieron <strong>famosas pandillas</strong> como los <em>Ghost Shadows</em> y los <em>Flying Dragons</em>. No siempre estos Tongs estuvieron de acuerdo lo que generó muchas disputas internas por el control de la zona. Esto asustaba al resto de los habitantes de Nueva York, que veían a esta colonia como un territorio sin ley.
+
+Si bien este pasado violento ha sido superado, cruzar al barrio chino implica enfrentarse a una elevada barrera cultural. Uno como occidental puede llegar a sentirse un fantasma en la zona. Los pobladores ignoran flagrantemente a locales y turistas y transcurren su vida hablando en su idioma, vendiendo sus frutos, hierbas y pescados, y pareciendo que olvidaron que están en otro país.
+<h3>Primero Five Points que Chinatown</h3>
+Como todo en Nueva York, el Chinatown no siempre fue así. Antes de los chinos este vecindario era conocido como <strong>Five Points</strong>. El nombre <strong>Five Points</strong> proviene de la intersección de cinco calles que se unían en el actual Parque Columbus, lugar que en el Siglo XIX era una de las zonas más peligrosas de Nueva York.
+
+Esta era una zona pantanosa a la que llegaron inmigrantes pobres de varias geografías. Las rivalidades entre las distintas etnias eran muy habituales, atmósfera recreada por <strong>Martin Scorsese en su película Gangs of New York</strong>. Esta pugnas con el tiempo fueron cediendo, convirtiéndose este vecindario en uno de los primeros ejemplos de la integración de distintas culturas que hace a Nueva York lo maravilloso que es.
+<h2> Otros barrios chinos de Nueva York</h2>
+Deben estar conscientes que esta zona siempre está atiborrada de gente. Si desean huir de las multitudes, pero quieren tener su experiencia con las <strong>colonias asiáticas </strong>de la ciudad, existen otros importantes <strong>barrios chinos en Nueva York </strong>donde pueden <strong>comer exquisito</strong> y lejos del bullicio. El que más les recomendamos es el <a href="http://www.newyorkando.com/restaurantes/cenando-en-flushing">Chinatown de Queens</a>, ubicado en el barrio <a href="http://www.newyorkando.com/barrios/queens/flushing">Flushing</a>.
+
+<strong>Nota para los cinéfilos</strong>: el Chinatown (1974) de Roman Polanski es el de Los Angeles, no el de Nueva York. Es que en cada ciudad importante de Norteamérica hay un barrio chino.";s:10:"post_title";s:9:"Chinatown";s:12:"post_excerpt";s:0:"";s:11:"post_status";s:7:"publish";s:14:"comment_status";s:6:"closed";s:11:"ping_status";s:4:"open";s:13:"post_password";s:0:"";s:9:"post_name";s:9:"chinatown";s:7:"to_ping";s:0:"";s:6:"pinged";s:0:"";s:13:"post_modified";s:19:"2013-12-19 13:40:19";s:17:"post_modified_gmt";s:19:"2013-12-19 13:40:19";s:21:"post_content_filtered";s:0:"";s:11:"post_parent";i:294;s:4:"guid";s:39:"http://www.newyorkando.com/?page_id=403";s:10:"menu_order";i:0;s:9:"post_type";s:4:"page";s:14:"post_mime_type";s:0:"";s:13:"comment_count";s:1:"1";s:6:"filter";s:3:"raw";}}

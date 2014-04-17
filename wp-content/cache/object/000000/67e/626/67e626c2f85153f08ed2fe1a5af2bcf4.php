@@ -1,0 +1,29 @@
+�JOS<?php exit; ?>a:1:{s:7:"content";O:8:"stdClass":24:{s:2:"ID";i:13;s:11:"post_author";s:1:"2";s:9:"post_date";s:19:"2011-01-26 12:36:08";s:13:"post_date_gmt";s:19:"2011-01-26 12:36:08";s:12:"post_content";s:4907:"Los <strong>hostales en Nueva York</strong> son una de las formas más amables de viajar solo a esta gran ciudad. Usualmente procuran crear un espíritu de camaradería entre los turistas, aprovechando que gran parte de sus clientes son jóvenes de todas partes del mundo buscando conocer y socializar.
+<div class="asideBlock">
+<h2>Buscar Hostales en Nueva York</h2>
+Haz <a href="http://es.hostelbookers.com/albergues/estados-unidos/nueva-york/?affiliate=fba">click aquí</a> para usar el <strong>buscador de reservas online de hostales de hostelbookers</strong>.
+
+Para los hostales en Nueva York y <strong>otras opciones de alojamiento y albergues baratos</strong>, la fórmula ideal para reservar en un buen sitio es: buenos comentarios + selección cuidadosa de la habitación + kit de aseo personal (con chanclas incluidas) + buena locación céntrica.
+
+<strong>Nuestra recomendación</strong>: <a href="/5-hostales-centricos-y-baratos-en-nueva-york" target="_blank">5 hostales céntricos y baratos en Nueva York</a>
+
+</div>
+Suelen tener <strong>amplias áreas comunes, baños compartidos, incluso cocinas</strong> para prepararse sus propios alimentos lo que es fabuloso si se viaja con el presupuesto ajustado. También en muchos de ellos se planifican actividades para que los viajeros se conozcan y para visitar la ciudad. Esto puede ser bueno o malo dependiendo del humor de cada quien y del presupuesto.
+
+
+<img class="alignnone size-full wp-image-281" title="Hostales New York" alt="Hostales en Nueva York" src="http://www.newyorkando.com/wpnyando/wp-content/uploads/2011/01/Hostales.jpg" width="600" height="399" />
+
+Ante lo costoso del alojamiento en la ciudad los albergues se han convertido en una opción muy razonable, adaptándose para todos los gustos, por ejemplo, la mayoría cuenta con habitaciones privadas que permiten mantener la privacidad por un precio aceptable. Lo importante es fijarse bien en las características del hostal y la habitación a seleccionar, por ejemplo, que no sea unisex si se es pudoroso, créannos, esto es muy común en la ciudad.
+
+Para la búsqueda les recomendamos hacerlo a través del buscador de Hostelbookers <a href="http://es.hostelbookers.com/albergues/estados-unidos/nueva-york/?affiliate=fba">disponible aquí</a>, que resulta una de las mejores aplicaciones para la reserva por su amplia oferta y por no cargar comisión sobre el precio final.
+
+A continuación <strong>damos nuestras recomendaciones para seleccionar un hostal en Nueva York </strong>y no llevarse ninguna mala sorpresa al llegar:
+<ol>
+	<li>Verificar que el hostal tenga <strong>buenos comentarios</strong> de los usuarios, estos nos dan una idea más clara de qué esperar del hostal, la limpieza de sus baños y las habitaciones, su desayuno, su locación, etc.</li>
+	<li>Seleccionar cuidadosamente el <strong>tipo de habitación</strong>. Por lo general, los hostales tienen habitaciones privadas y compartidas. Dentro de las opciones compartidas generalmente existe la posibilidad de escoger una habitación sólo para mujeres o sólo para hombres, pero están muy popularizadas las habitaciones mixtas, lo que es una excelente opción cuando se viaja en grupos o con la familia. También es bueno revisar si el baño está dentro o fuera de la habitación. Lo ideal si se viaja en pareja es tomar una habitación privada y si es posible, con baño privado, lo que nos lleva al punto 3:</li>
+	<li>Es importante llevar <strong>chanclas o hawaianas</strong>. Si vas a compartir el baño -y más allá de lo limpio que pueda lucir- es bueno tomar sus precauciones. Por otra parte, si eres de aquellos que aman las <strong>toallas</strong> mullidas, es buena idea llevar una de casa, puesto que las de los hostales no son de muy buena calidad (la alta rotación y la procura de bajos costos), también hay que llevar <strong>champú</strong> y <strong>jabón</strong> ya que en los hostales no suelen darlos como en los hoteles. Las sábanas y cobijas sí están incluidas, aunque hay muchas personas que prefieren llevar su saco de dormir.</li>
+	<li><strong>Localización</strong>: Es importante que esté en un lugar céntrico y que permita desplazarse fácilmente. Los <strong>hostales más baratos están más lejos de los principales puntos de interés</strong>, por lo que al final no hay un ahorro real ya que se deberá gastar más en desplazamientos y se pierde tiempo valioso. Un <strong>buen cálculo es asegurarse de no estar a más de 30-45 minutos </strong>de a donde se planifique ir.</li>
+</ol>
+En resumen, la fórmula es: buenos comentarios + selección cuidadosa del tipo de habitación + kit de aseo personal (con toalla y chanclas incluidas) + locación céntrica.
+
+Si <strong>aún no tienes claro donde hospedarte te recomendamos que veas nuestra sección</strong> <strong><a href="/donde-dormir">dónde dormir</a></strong>.";s:10:"post_title";s:8:"Hostales";s:12:"post_excerpt";s:0:"";s:11:"post_status";s:7:"publish";s:14:"comment_status";s:4:"open";s:11:"ping_status";s:4:"open";s:13:"post_password";s:0:"";s:9:"post_name";s:8:"hostales";s:7:"to_ping";s:0:"";s:6:"pinged";s:0:"";s:13:"post_modified";s:19:"2013-06-25 19:35:14";s:17:"post_modified_gmt";s:19:"2013-06-25 19:35:14";s:21:"post_content_filtered";s:0:"";s:11:"post_parent";i:0;s:4:"guid";s:26:"http://www.newyorkando.com";s:10:"menu_order";i:0;s:9:"post_type";s:4:"page";s:14:"post_mime_type";s:0:"";s:13:"comment_count";s:1:"0";s:6:"filter";s:3:"raw";}}

@@ -1,0 +1,164 @@
+# Theme Taxonomy
+
+Terms used to classify WordPress.com themes. The extended terms for subject and style should be removed before submitting to WordPress.org Extend since they are not recognized.
+
+## Changelog
+
+Jan 25, 2011
+- Initial import
+
+## Terms
+
+### Subject
+
+- announcement
+- art
+- artwork
+- blog
+- business
+- cartoon
+- ceremonial
+- collaboration
+- corporate
+- craft
+- design
+- education
+- fashion
+- gaming
+- holiday
+- journal
+- lifestream
+- magazine
+- music
+- nature
+- news
+- notes
+- one-page
+- outdoors
+- photoblogging
+- photography
+- portfolio
+- productivity
+- professional
+- real-estate
+- school
+- scrapbooking
+- seasonal
+- single-page
+- sports
+- travel
+- tumblelog
+- video
+- wedding
+
+### Style
+
+- abstract
+- artistic
+- boyish
+- bright
+- business
+- calligraphic
+- cartoony
+- clean
+- colorful
+- conservative
+- contemporary
+- corporate
+- curved
+- dark
+- dreamy
+- earthy
+- elegant
+- faded
+- feminine
+- flamboyant
+- flowery
+- fluorescent
+- formal
+- funny
+- futurist
+- generic
+- geometric
+- girly
+- glamorous
+- gritty
+- grungy
+- hand-drawn
+- handcrafted
+- humorous
+- industrial
+- light
+- masculine
+- metallic
+- minimal
+- modern
+- natural
+- nostalgic
+- outdoorsy
+- paper-made
+- playful
+- realistic
+- retro
+- simple
+- sophisticated
+- street
+- tech
+- technical
+- techy
+- textured
+- traditional
+- urban
+- vibrant
+- whimsical
+
+### Colors
+
+- black
+- blue
+- brown
+- gray
+- green
+- orange
+- pink
+- purple
+- red
+- silver
+- tan
+- white
+- yellow
+- dark
+- light
+
+### Columns
+
+- one-column
+- two-columns
+- three-columns
+- four-columns
+- left-sidebar
+- right-sidebar
+
+### Width
+
+- fixed-width
+- flexible-width
+
+### Features
+
+- custom-background
+- custom-colors
+- custom-header
+- custom-menu
+- editor-style
+- featured-images
+- featured-image-header
+- front-page-post-form
+- full-width-template
+- microformats
+- rtl-language-support
+- sticky-post
+- theme-options
+- translation-ready
+
+Source: <small>http://svn.automattic.com/wpcom-themes/demo/theme-taxonomy.txt</small>

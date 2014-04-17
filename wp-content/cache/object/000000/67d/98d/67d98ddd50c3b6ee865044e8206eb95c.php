@@ -1,0 +1,42 @@
+�IOS<?php exit; ?>a:1:{s:7:"content";O:8:"stdClass":24:{s:2:"ID";i:815;s:11:"post_author";s:1:"2";s:9:"post_date";s:19:"2012-01-17 22:38:15";s:13:"post_date_gmt";s:19:"2012-01-17 22:38:15";s:12:"post_content";s:7522:"<div class="asideBlock">
+<h3>¿Buscando hoteles cerca de Central Park?</h3>
+Revisa los <a title="Hoteles en Central Park" href="http://www.booking.com/searchresults.es.html?aid=347381;label=newyorkando;sid=a0249250bfb7c320520c0cf5545860ec;dcid=1;district=973;inac=1" target="_blank">hoteles en Central Park</a>
+<h3>¿Cinéfilos?</h3>
+Recorran los lugares de Central Park inmortalizados en el cine con el <strong>tour</strong> <a href="http://www.partner.viator.com/es/8021/tours/Nueva-York/Central-Park-Movie-Sites-Walking-Tour/d687-2218CENTRAL" target="_blank">Central Park Movie Sites Walking Tour</a>
+
+<strong>Transporte: </strong>
+<em>Por Central Park West:</em>
+Metro B, C. Estaciones desde la calle 72 hasta la 110
+<em>Por la 5a Avenida</em>
+Metro R, W. Estación Fifth Ave-59th Sr
+Metro 6. Estaciones desde la calle 68 hasta la 110 (saldrán en Lexigton Ave, a 3 cuadras de distancia de Central Park)
+<strong>Dirección:</strong>
+Central Park se ubica de sur a norte entre las Calles 59 y la 110 y la 5a Avenida y Central Park West de este a oeste.
+<h2>Mapa de Central Park</h2>
+<img class="aligncenter size-full wp-image-819" title="Mapa-de-Central_Park Nueva York Newyorkando" alt="" src="http://www.newyorkando.com/wpnyando/wp-content/uploads/2012/01/Mapa-de-Central_Park_New_York_City1.jpg" width="182" height="598" />
+
+</div>
+Cuesta hablar de Central Park cuando ya tanto se ha dicho del famoso <strong>pulmón vegetal de Nueva York</strong>, pero lo intentaremos. Lo que les vamos a presentar es una <strong>completa guía para visitar Central Park</strong>, así no se perderán ninguna de las atracciones de este oasis en medio de <a href="/barrios/manhattan">Manhattan</a>.
+<p style="text-align: center;"><img class="aligncenter  wp-image-818" title="Central-Park-Newyorkando" alt="" src="http://www.newyorkando.com/wpnyando/wp-content/uploads/2012/01/Central-Park-Newyorkando1.jpg" width="448" height="336" /></p>
+Se dice que junto al <a href="/transporte/metro-de-nueva-york">Metro</a> de Nueva York, <strong>Central Park es el otro gran homologador de los neoyorquinos</strong>, todos lo usan y todos lo quieren. Allí encontrarán universitarios tomando sol en traje de baño en verano, a parejas paseando en victorias (coches de caballos), deportistas entrenando para el próximo maratón, ancianos tomando sol, dueños paseando a sus perros, a <em>hipsters</em> haciendo pic-nics y a pacíficos indigentes descansando en sus bancas... ¡No dejen de visitarlo y muchas veces!
+<h2>Visitar Central Park</h2>
+Lo primero que tienen que saber que <strong>Central Park es enorme</strong>, una cosa es verlo en un mapa y otra caminarlo, sólo entonces se darán cuenta de su magnitud. Consideren que el parque va desde la calle 59 hasta la 110, ¡son más de cincuenta cuadras! Una buena idea para conocerlo es <a href="http://www.partner.viator.com/es/8021/tours/Nueva-York/New-York-City-Bike-Rental/d687-3156BIKE01" target="_blank">alquilar una bicicleta</a>, opción muy útil si tienen poco tiempo. La otra forma es ir conociéndolo de a poco y sin estrés, lo que es ideal, ya que son tantas las atracciones que bien valen varias visitas.
+<h2>Qué ver en Central Park</h2>
+Pueden hacer clic en cada una de las siguientes categorías para tener información, mapas y fotos detallados de los <strong>lugares de interés de Central Park</strong>:
+
+<a title="Jardines de Central Park" href="/central-park/zonas-verdes-de-central-park" target="_blank">Zonas verdes de Central Park</a>
+<a title="Lagunas de Central Park" href="/central-park/laguna-de-central-park" target="_blank">Lagunas de Central Park</a>
+<a title="Fuentes y estatuas de Central Park" href="/central-park/fuentes-monumentos-y-estatuas-de-central-park" target="_blank">Fuentes, Monumentos y Estatuas de Central Park</a>
+<a title="Puentes y arcos de Central Park" href="/central-park/puentes-y-arcos-de-central-park" target="_blank">Puentes y Arcos de Central Park</a>
+<a title="Espectáculos en Central Park" href="/central-park/eventos-en-central-park" target="_blank">Eventos en Central Park</a>
+<a title="Deportes en Central Park" href="/central-park/deportes-en-central-park" target="_blank">Deportes en Central Park</a>
+<h2>Central Park es seguro</h2>
+Quizás algunos de Ustedes piensen que <strong>visitar Central Park</strong> es inseguro. Es natural, ya que durante décadas las series policiales y cientos de películas nos han acostumbrado a verlo como un refugio para el crimen. En ciertos momentos de su historia esto ha sido cierto, pero hoy, luego de importantes proyectos de conservación y de un refuerzo de sus sistemas de seguridad (<strong>tiene su propio Departamento de Policía</strong>), el parque durante el día es un lugar perfectamente seguro. Otra cosa es de noche, allí aplican las mismas precauciones que tomaríamos en cualquier parque de una urbe del tamaño de Nueva York.
+<h2>Diseño de Central Park</h2>
+El Central Park que hoy conocemos fue construido entre 1858 y 1873. Su diseño pertenece al paisajista Frederick Law Olmsted y al arquitecto inglés Calvert Vaux, los mismos artífices de <strong>Prospect Park, </strong>su homólogo en <a href="/barrios/brooklyn">Brooklyn</a>. En parte la idea de sus creadores fue rememorar los parques europeos más famosos de la época, además jugar con la idea de entremezclar aparentes zonas vírgenes con jardines bien domados.
+
+Decimos "aparentes zonas vírgenes" porque aquí <strong>todo fue planificado</strong>, no solo sus <a title="Puentes de Central Park" href="http://www.newyorkando.com/central-park/puentes-y-arcos-de-central-park" target="_blank">puentes</a>, <a title="Jardines de Central Park" href="http://www.newyorkando.com/central-park/zonas-verdes-de-central-park" target="_blank">jardines</a>, <a title="Fuentes y estatuas de Central Park" href="http://www.newyorkando.com/central-park/fuentes-monumentos-y-estatuas-de-central-park" target="_blank">fuentes y estatuas</a>, sino también sus <a title="Lagunas de Central Park" href="http://www.newyorkando.com/central-park/laguna-de-central-park" target="_blank">lagunas</a>, praderas, colinas y bosques. Con el tiempo se han ido agregando otras instalaciones como <a title="Deportes en Central Park" href="http://www.newyorkando.com/central-park/deportes-en-central-park" target="_blank">canchas deportivas, pistas de patinaje</a>, <a title="Espectáculos en Central Park" href="http://www.newyorkando.com/central-park/eventos-en-central-park" target="_blank">espacios para espectáculos</a>, un <a title="zoológico de central park" href="http://www.newyorkando.com/que-ver/parques/zoologico-de-central-park" target="_blank">zoológico</a>, entre otros lugares de interés.
+<h2>Central Park en el cine</h2>
+Tan importante es la presencia de <a title="Central Park en el cine" href="http://www.newyorkando.com/central-park-en-el-cine" target="_blank">Central Park en el cine</a> que le dedicamos un post. Les adelantamos que tienen la oportunidad de <strong>conocer los lugares de Central Park más emblemáticos en el cine y la tv </strong>en este <a href="http://www.partner.viator.com/es/8021/tours/Nueva-York/Central-Park-Movie-Sites-Walking-Tour/d687-2218CENTRAL" target="_blank">tour a pie</a> (en el link tienen los detalles).
+<pre>Foto de Andrea H. Madrid</pre>
+<pre>Mapa de <a href="http://commons.wikimedia.org/wiki/File:Central_Park_New_York_City.png" target="_blank">MapMaster</a> con una licencia GNU Free Documentation</pre>";s:10:"post_title";s:12:"Central Park";s:12:"post_excerpt";s:0:"";s:11:"post_status";s:7:"publish";s:14:"comment_status";s:6:"closed";s:11:"ping_status";s:4:"open";s:13:"post_password";s:0:"";s:9:"post_name";s:12:"central-park";s:7:"to_ping";s:0:"";s:6:"pinged";s:0:"";s:13:"post_modified";s:19:"2013-11-13 20:10:38";s:17:"post_modified_gmt";s:19:"2013-11-13 20:10:38";s:21:"post_content_filtered";s:0:"";s:11:"post_parent";i:0;s:4:"guid";s:39:"http://www.newyorkando.com/?page_id=815";s:10:"menu_order";i:0;s:9:"post_type";s:4:"page";s:14:"post_mime_type";s:0:"";s:13:"comment_count";s:1:"0";s:6:"filter";s:3:"raw";}}

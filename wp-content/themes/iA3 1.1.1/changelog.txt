@@ -1,0 +1,7 @@
+1.1.1 - September 16th, 2010
+
+- Added German and Swiss German translation files.
+- Added missing internationalisation functon calls.
+- Minified Javascript files.
+- Renamed archives.php to archive.php
+- Fixed category display in archive.php

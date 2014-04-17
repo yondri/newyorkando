@@ -1,0 +1,13 @@
+�JOS<?php exit; ?>a:1:{s:7:"content";O:8:"stdClass":24:{s:2:"ID";i:15;s:11:"post_author";s:1:"2";s:9:"post_date";s:19:"2011-01-26 12:37:51";s:13:"post_date_gmt";s:19:"2011-01-26 12:37:51";s:12:"post_content";s:1776:"<img src="http://www.newyorkando.com/wpnyando/wp-content/uploads/2011/01/El-Tiempo1.jpg" alt="" title="El-Tiempo" width="480" height="640" class="alignnone size-full wp-image-453" />
+<div class="asideBlock">
+<h2>Previsión: El tiempo hoy y los próximos días en Nueva York</h2>
+
+</div>
+El tiempo en Nueva York varía durante todo el año entre dos extremos: mucho frío y mucho calor. Las temporadas intermedias son bastante agradables y las más adecuadas para una visita a la ciudad.
+
+Particularmente los meses de mayo, junio, septiembre y octubre, suelen ser los más amables a los turistas de paso en Nueva York, es decir, durante primavera y otoño, que de paso son dos temporadas hermosas gracias a la cantidad de jardines y <a href="http://www.newyorkando.com/que-ver/parques">parques</a> que mutan de color durante esas temporadas.
+<h2>En Verano</h2>
+Aunque la temperatura media es de 28 grados centígrados, durante el verano pueden superar los 40 grados, especialmente en Julio y Agosto. Por las características topográficas de New York el grado de humedad es bastante alto, por lo que recomendamos, si se visita la ciudad en esta fecha, llevar varias mudas de ropa fresca y mucho protector solar.
+<h2>En Invierno</h2>
+Durante el invierno la temperatura promedio oscila entre los 2 y los -6 grados, con días de frío extremo en que la temperatura puede descender hasta los -10 grados. La ciudad en invierno es encantadora, especialmente la temporada navideña llena de luces y pinos, pero si se es una persona poco acostumbrada al frío, definitivamente es mejor visitar Nueva York en otra fecha.
+<pre>Foto de <a href="http://www.flickr.com/photos/davidberkowitz/4390631674/">David Berkowitz</a> bajo una licencia Creative Commons (CC BY 2.0)</pre>";s:10:"post_title";s:9:"El tiempo";s:12:"post_excerpt";s:0:"";s:11:"post_status";s:7:"publish";s:14:"comment_status";s:4:"open";s:11:"ping_status";s:4:"open";s:13:"post_password";s:0:"";s:9:"post_name";s:6:"tiempo";s:7:"to_ping";s:0:"";s:6:"pinged";s:0:"";s:13:"post_modified";s:19:"2012-11-05 17:30:14";s:17:"post_modified_gmt";s:19:"2012-11-05 17:30:14";s:21:"post_content_filtered";s:0:"";s:11:"post_parent";i:0;s:4:"guid";s:26:"http://www.newyorkando.com";s:10:"menu_order";i:0;s:9:"post_type";s:4:"page";s:14:"post_mime_type";s:0:"";s:13:"comment_count";s:1:"1";s:6:"filter";s:3:"raw";}}

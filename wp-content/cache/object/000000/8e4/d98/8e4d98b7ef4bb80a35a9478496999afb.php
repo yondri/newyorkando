@@ -1,0 +1,16 @@
+�JOS<?php exit; ?>a:1:{s:7:"content";O:8:"stdClass":24:{s:2:"ID";i:430;s:11:"post_author";s:1:"2";s:9:"post_date";s:19:"2011-06-19 19:17:28";s:13:"post_date_gmt";s:19:"2011-06-19 19:17:28";s:12:"post_content";s:2437:"<img class="alignnone size-full wp-image-432" title="noho newyorkando" src="http://www.newyorkando.com/wpnyando/wp-content/uploads/2011/06/noho-newyorkando.jpg" alt="" width="480" height="640" />
+<div class="asideBlock">
+<h3><strong>Transporte: </strong>
+Líneas Metro 4, 6. Estaciones Astor Place y Bleecker Street
+Líneas Metro B, D, F, M. Estación Broadway - Lafayette
+<strong>Dirección:</strong>
+NoHo está delimitado por Houston Street al sur y Astor Place al norte, The Bowery al este y Broadway al oeste.</h3>
+[mappress mapid="84"]
+<h3>Haz click aquí si buscas <a href="/hoteles">alojamiento en Noho, New York</a></h3>
+</div>
+NoHo es un pequeño barrio de un poco más de 125 edificios, bautizado con contracciones de nombres a la moda Neoyorquina, en este caso la abreviación de North of Houston Street, contraponiéndose al South of Houston Street conocido como <a href="/barrios/manhattan/downtown/soho">SoHo</a>. Está situado entre <a href="/barrios/manhattan/downtown/greenwich-village">Greenwich Village</a> y el <a href="/barrios/manhattan/downtown/east-village">East Village</a>, que con su amplia oferta de lofts y su céntrica ubicación es un barrio residencial muy apetecido en <a href="/barrios/manhattan">Manhattan</a>.
+
+En esta zona hay un par de instituciones culturales relevantes como el <strong>Angelika Film Center &amp; Cafe</strong>, en la esquina de Houston con Mercer, dedicado a la proyección de cine independiente, y el <strong>Astor Place Theatre</strong> (434 Lafayette Street), donde hay funciones continuas del <strong>Blue Man Group</strong>, una original obra que entremezcla comedia, música y multimedia. Les recomendamos ir, pero eso si, no vayan con ropa muy elegante, pues a veces "salpica" parte del show al público, tanto así que a las primeras filas las llaman "poncho zone", asientos con cuya compra incluyen un poncho desechable.
+
+Este barrio cuenta con una interesante oferta de restaurantes y bares, pero su principal atracción es la tranquilidad que contrasta con los dinámicos y ruidosos barrios que la rodean. En realidad es un vecindario para vivir, pero muy bien puede servir como un oasis <a href="/donde-dormir">donde dormir</a> en medio de la hiperquinesia del <a href="/barrios/manhattan/downtown">Downtown</a>.
+<pre>Foto de <a href="http://www.flickr.com/photos/winton/3718903110/">Steve Winton</a> con una licencia Creative Commons (CC BY 2.0)</pre>";s:10:"post_title";s:4:"Noho";s:12:"post_excerpt";s:0:"";s:11:"post_status";s:7:"publish";s:14:"comment_status";s:6:"closed";s:11:"ping_status";s:4:"open";s:13:"post_password";s:0:"";s:9:"post_name";s:4:"noho";s:7:"to_ping";s:0:"";s:6:"pinged";s:0:"";s:13:"post_modified";s:19:"2011-07-27 16:21:02";s:17:"post_modified_gmt";s:19:"2011-07-27 16:21:02";s:21:"post_content_filtered";s:0:"";s:11:"post_parent";i:294;s:4:"guid";s:39:"http://www.newyorkando.com/?page_id=430";s:10:"menu_order";i:0;s:9:"post_type";s:4:"page";s:14:"post_mime_type";s:0:"";s:13:"comment_count";s:1:"0";s:6:"filter";s:3:"raw";}}

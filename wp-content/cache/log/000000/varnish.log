@@ -1,0 +1,204 @@
+[Thu, 20 Jun 2013 15:18:44 +0000] [http://www.newyorkando.com/] Connecting to  ...
+[Thu, 20 Jun 2013 15:18:44 +0000] [http://www.newyorkando.com/] PURGE / HTTP/1.1
+[Thu, 20 Jun 2013 15:18:44 +0000] [http://www.newyorkando.com/] Host: www.newyorkando.com
+[Thu, 20 Jun 2013 15:18:44 +0000] [http://www.newyorkando.com/] Unable to send request: 0: php_network_getaddresses: getaddrinfo failed: No address associated with hostname.
+[Thu, 20 Jun 2013 15:18:44 +0000] [http://www.newyorkando.com/wpnyando/] Connecting to  ...
+[Thu, 20 Jun 2013 15:18:44 +0000] [http://www.newyorkando.com/wpnyando/] PURGE /wpnyando/ HTTP/1.1
+[Thu, 20 Jun 2013 15:18:44 +0000] [http://www.newyorkando.com/wpnyando/] Host: www.newyorkando.com
+[Thu, 20 Jun 2013 15:18:44 +0000] [http://www.newyorkando.com/wpnyando/] Unable to send request: 0: php_network_getaddresses: getaddrinfo failed: No address associated with hostname.
+[Thu, 20 Jun 2013 15:18:44 +0000] [http://www.newyorkando.com/page/2] Connecting to  ...
+[Thu, 20 Jun 2013 15:18:44 +0000] [http://www.newyorkando.com/page/2] PURGE /page/2 HTTP/1.1
+[Thu, 20 Jun 2013 15:18:44 +0000] [http://www.newyorkando.com/page/2] Host: www.newyorkando.com
+[Thu, 20 Jun 2013 15:18:44 +0000] [http://www.newyorkando.com/page/2] Unable to send request: 0: php_network_getaddresses: getaddrinfo failed: No address associated with hostname.
+[Thu, 20 Jun 2013 15:18:44 +0000] [http://www.newyorkando.com/page/3] Connecting to  ...
+[Thu, 20 Jun 2013 15:18:44 +0000] [http://www.newyorkando.com/page/3] PURGE /page/3 HTTP/1.1
+[Thu, 20 Jun 2013 15:18:44 +0000] [http://www.newyorkando.com/page/3] Host: www.newyorkando.com
+[Thu, 20 Jun 2013 15:18:44 +0000] [http://www.newyorkando.com/page/3] Unable to send request: 0: php_network_getaddresses: getaddrinfo failed: No address associated with hostname.
+[Thu, 20 Jun 2013 15:18:44 +0000] [http://www.newyorkando.com/page/4] Connecting to  ...
+[Thu, 20 Jun 2013 15:18:44 +0000] [http://www.newyorkando.com/page/4] PURGE /page/4 HTTP/1.1
+[Thu, 20 Jun 2013 15:18:44 +0000] [http://www.newyorkando.com/page/4] Host: www.newyorkando.com
+[Thu, 20 Jun 2013 15:18:44 +0000] [http://www.newyorkando.com/page/4] Unable to send request: 0: php_network_getaddresses: getaddrinfo failed: No address associated with hostname.
+[Thu, 20 Jun 2013 15:18:44 +0000] [http://www.newyorkando.com/page/5] Connecting to  ...
+[Thu, 20 Jun 2013 15:18:44 +0000] [http://www.newyorkando.com/page/5] PURGE /page/5 HTTP/1.1
+[Thu, 20 Jun 2013 15:18:44 +0000] [http://www.newyorkando.com/page/5] Host: www.newyorkando.com
+[Thu, 20 Jun 2013 15:18:44 +0000] [http://www.newyorkando.com/page/5] Unable to send request: 0: php_network_getaddresses: getaddrinfo failed: No address associated with hostname.
+[Thu, 20 Jun 2013 15:18:44 +0000] [http://www.newyorkando.com/feed] Connecting to  ...
+[Thu, 20 Jun 2013 15:18:44 +0000] [http://www.newyorkando.com/feed] PURGE /feed HTTP/1.1
+[Thu, 20 Jun 2013 15:18:44 +0000] [http://www.newyorkando.com/feed] Host: www.newyorkando.com
+[Thu, 20 Jun 2013 15:18:44 +0000] [http://www.newyorkando.com/feed] Unable to send request: 0: php_network_getaddresses: getaddrinfo failed: No address associated with hostname.
+[Thu, 20 Jun 2013 15:18:44 +0000] [http://www.newyorkando.com/nueva-york] Connecting to  ...
+[Thu, 20 Jun 2013 15:18:44 +0000] [http://www.newyorkando.com/nueva-york] PURGE /nueva-york HTTP/1.1
+[Thu, 20 Jun 2013 15:18:44 +0000] [http://www.newyorkando.com/nueva-york] Host: www.newyorkando.com
+[Thu, 20 Jun 2013 15:18:44 +0000] [http://www.newyorkando.com/nueva-york] Unable to send request: 0: php_network_getaddresses: getaddrinfo failed: No address associated with hostname.
+[Thu, 20 Jun 2013 15:18:44 +0000] [http://www.newyorkando.com/([a-z0-9_\-]*?)sitemap([a-z0-9_\-]*)?\.xml] Connecting to  ...
+[Thu, 20 Jun 2013 15:18:44 +0000] [http://www.newyorkando.com/([a-z0-9_\-]*?)sitemap([a-z0-9_\-]*)?\.xml] PURGE /([a-z0-9_\-]*?)sitemap([a-z0-9_\-]*)?\.xml HTTP/1.1
+[Thu, 20 Jun 2013 15:18:44 +0000] [http://www.newyorkando.com/([a-z0-9_\-]*?)sitemap([a-z0-9_\-]*)?\.xml] Host: www.newyorkando.com
+[Thu, 20 Jun 2013 15:18:44 +0000] [http://www.newyorkando.com/([a-z0-9_\-]*?)sitemap([a-z0-9_\-]*)?\.xml] Unable to send request: 0: php_network_getaddresses: getaddrinfo failed: No address associated with hostname.
+[Thu, 20 Jun 2013 15:19:30 +0000] [http://www.newyorkando.com/] Connecting to  ...
+[Thu, 20 Jun 2013 15:19:30 +0000] [http://www.newyorkando.com/] PURGE / HTTP/1.1
+[Thu, 20 Jun 2013 15:19:30 +0000] [http://www.newyorkando.com/] Host: www.newyorkando.com
+[Thu, 20 Jun 2013 15:19:30 +0000] [http://www.newyorkando.com/] Unable to send request: 0: php_network_getaddresses: getaddrinfo failed: No address associated with hostname.
+[Thu, 20 Jun 2013 15:19:30 +0000] [http://www.newyorkando.com/wpnyando/] Connecting to  ...
+[Thu, 20 Jun 2013 15:19:30 +0000] [http://www.newyorkando.com/wpnyando/] PURGE /wpnyando/ HTTP/1.1
+[Thu, 20 Jun 2013 15:19:30 +0000] [http://www.newyorkando.com/wpnyando/] Host: www.newyorkando.com
+[Thu, 20 Jun 2013 15:19:30 +0000] [http://www.newyorkando.com/wpnyando/] Unable to send request: 0: php_network_getaddresses: getaddrinfo failed: No address associated with hostname.
+[Thu, 20 Jun 2013 15:19:30 +0000] [http://www.newyorkando.com/page/2] Connecting to  ...
+[Thu, 20 Jun 2013 15:19:30 +0000] [http://www.newyorkando.com/page/2] PURGE /page/2 HTTP/1.1
+[Thu, 20 Jun 2013 15:19:30 +0000] [http://www.newyorkando.com/page/2] Host: www.newyorkando.com
+[Thu, 20 Jun 2013 15:19:30 +0000] [http://www.newyorkando.com/page/2] Unable to send request: 0: php_network_getaddresses: getaddrinfo failed: No address associated with hostname.
+[Thu, 20 Jun 2013 15:19:30 +0000] [http://www.newyorkando.com/page/3] Connecting to  ...
+[Thu, 20 Jun 2013 15:19:30 +0000] [http://www.newyorkando.com/page/3] PURGE /page/3 HTTP/1.1
+[Thu, 20 Jun 2013 15:19:30 +0000] [http://www.newyorkando.com/page/3] Host: www.newyorkando.com
+[Thu, 20 Jun 2013 15:19:30 +0000] [http://www.newyorkando.com/page/3] Unable to send request: 0: php_network_getaddresses: getaddrinfo failed: No address associated with hostname.
+[Thu, 20 Jun 2013 15:19:30 +0000] [http://www.newyorkando.com/page/4] Connecting to  ...
+[Thu, 20 Jun 2013 15:19:30 +0000] [http://www.newyorkando.com/page/4] PURGE /page/4 HTTP/1.1
+[Thu, 20 Jun 2013 15:19:30 +0000] [http://www.newyorkando.com/page/4] Host: www.newyorkando.com
+[Thu, 20 Jun 2013 15:19:30 +0000] [http://www.newyorkando.com/page/4] Unable to send request: 0: php_network_getaddresses: getaddrinfo failed: No address associated with hostname.
+[Thu, 20 Jun 2013 15:19:30 +0000] [http://www.newyorkando.com/page/5] Connecting to  ...
+[Thu, 20 Jun 2013 15:19:30 +0000] [http://www.newyorkando.com/page/5] PURGE /page/5 HTTP/1.1
+[Thu, 20 Jun 2013 15:19:30 +0000] [http://www.newyorkando.com/page/5] Host: www.newyorkando.com
+[Thu, 20 Jun 2013 15:19:30 +0000] [http://www.newyorkando.com/page/5] Unable to send request: 0: php_network_getaddresses: getaddrinfo failed: No address associated with hostname.
+[Thu, 20 Jun 2013 15:19:30 +0000] [http://www.newyorkando.com/feed] Connecting to  ...
+[Thu, 20 Jun 2013 15:19:30 +0000] [http://www.newyorkando.com/feed] PURGE /feed HTTP/1.1
+[Thu, 20 Jun 2013 15:19:30 +0000] [http://www.newyorkando.com/feed] Host: www.newyorkando.com
+[Thu, 20 Jun 2013 15:19:30 +0000] [http://www.newyorkando.com/feed] Unable to send request: 0: php_network_getaddresses: getaddrinfo failed: No address associated with hostname.
+[Thu, 20 Jun 2013 15:19:30 +0000] [http://www.newyorkando.com/nueva-york] Connecting to  ...
+[Thu, 20 Jun 2013 15:19:30 +0000] [http://www.newyorkando.com/nueva-york] PURGE /nueva-york HTTP/1.1
+[Thu, 20 Jun 2013 15:19:30 +0000] [http://www.newyorkando.com/nueva-york] Host: www.newyorkando.com
+[Thu, 20 Jun 2013 15:19:30 +0000] [http://www.newyorkando.com/nueva-york] Unable to send request: 0: php_network_getaddresses: getaddrinfo failed: No address associated with hostname.
+[Thu, 20 Jun 2013 15:19:30 +0000] [http://www.newyorkando.com/([a-z0-9_\-]*?)sitemap([a-z0-9_\-]*)?\.xml] Connecting to  ...
+[Thu, 20 Jun 2013 15:19:30 +0000] [http://www.newyorkando.com/([a-z0-9_\-]*?)sitemap([a-z0-9_\-]*)?\.xml] PURGE /([a-z0-9_\-]*?)sitemap([a-z0-9_\-]*)?\.xml HTTP/1.1
+[Thu, 20 Jun 2013 15:19:30 +0000] [http://www.newyorkando.com/([a-z0-9_\-]*?)sitemap([a-z0-9_\-]*)?\.xml] Host: www.newyorkando.com
+[Thu, 20 Jun 2013 15:19:30 +0000] [http://www.newyorkando.com/([a-z0-9_\-]*?)sitemap([a-z0-9_\-]*)?\.xml] Unable to send request: 0: php_network_getaddresses: getaddrinfo failed: No address associated with hostname.
+[Thu, 20 Jun 2013 15:20:15 +0000] [http://www.newyorkando.com/] Connecting to  ...
+[Thu, 20 Jun 2013 15:20:15 +0000] [http://www.newyorkando.com/] PURGE / HTTP/1.1
+[Thu, 20 Jun 2013 15:20:15 +0000] [http://www.newyorkando.com/] Host: www.newyorkando.com
+[Thu, 20 Jun 2013 15:20:15 +0000] [http://www.newyorkando.com/] Unable to send request: 0: php_network_getaddresses: getaddrinfo failed: No address associated with hostname.
+[Thu, 20 Jun 2013 15:20:15 +0000] [http://www.newyorkando.com/wpnyando/] Connecting to  ...
+[Thu, 20 Jun 2013 15:20:15 +0000] [http://www.newyorkando.com/wpnyando/] PURGE /wpnyando/ HTTP/1.1
+[Thu, 20 Jun 2013 15:20:15 +0000] [http://www.newyorkando.com/wpnyando/] Host: www.newyorkando.com
+[Thu, 20 Jun 2013 15:20:15 +0000] [http://www.newyorkando.com/wpnyando/] Unable to send request: 0: php_network_getaddresses: getaddrinfo failed: No address associated with hostname.
+[Thu, 20 Jun 2013 15:20:15 +0000] [http://www.newyorkando.com/page/2] Connecting to  ...
+[Thu, 20 Jun 2013 15:20:15 +0000] [http://www.newyorkando.com/page/2] PURGE /page/2 HTTP/1.1
+[Thu, 20 Jun 2013 15:20:15 +0000] [http://www.newyorkando.com/page/2] Host: www.newyorkando.com
+[Thu, 20 Jun 2013 15:20:15 +0000] [http://www.newyorkando.com/page/2] Unable to send request: 0: php_network_getaddresses: getaddrinfo failed: No address associated with hostname.
+[Thu, 20 Jun 2013 15:20:15 +0000] [http://www.newyorkando.com/page/3] Connecting to  ...
+[Thu, 20 Jun 2013 15:20:15 +0000] [http://www.newyorkando.com/page/3] PURGE /page/3 HTTP/1.1
+[Thu, 20 Jun 2013 15:20:15 +0000] [http://www.newyorkando.com/page/3] Host: www.newyorkando.com
+[Thu, 20 Jun 2013 15:20:15 +0000] [http://www.newyorkando.com/page/3] Unable to send request: 0: php_network_getaddresses: getaddrinfo failed: No address associated with hostname.
+[Thu, 20 Jun 2013 15:20:15 +0000] [http://www.newyorkando.com/page/4] Connecting to  ...
+[Thu, 20 Jun 2013 15:20:15 +0000] [http://www.newyorkando.com/page/4] PURGE /page/4 HTTP/1.1
+[Thu, 20 Jun 2013 15:20:15 +0000] [http://www.newyorkando.com/page/4] Host: www.newyorkando.com
+[Thu, 20 Jun 2013 15:20:15 +0000] [http://www.newyorkando.com/page/4] Unable to send request: 0: php_network_getaddresses: getaddrinfo failed: No address associated with hostname.
+[Thu, 20 Jun 2013 15:20:15 +0000] [http://www.newyorkando.com/page/5] Connecting to  ...
+[Thu, 20 Jun 2013 15:20:15 +0000] [http://www.newyorkando.com/page/5] PURGE /page/5 HTTP/1.1
+[Thu, 20 Jun 2013 15:20:15 +0000] [http://www.newyorkando.com/page/5] Host: www.newyorkando.com
+[Thu, 20 Jun 2013 15:20:15 +0000] [http://www.newyorkando.com/page/5] Unable to send request: 0: php_network_getaddresses: getaddrinfo failed: No address associated with hostname.
+[Thu, 20 Jun 2013 15:20:15 +0000] [http://www.newyorkando.com/feed] Connecting to  ...
+[Thu, 20 Jun 2013 15:20:15 +0000] [http://www.newyorkando.com/feed] PURGE /feed HTTP/1.1
+[Thu, 20 Jun 2013 15:20:15 +0000] [http://www.newyorkando.com/feed] Host: www.newyorkando.com
+[Thu, 20 Jun 2013 15:20:15 +0000] [http://www.newyorkando.com/feed] Unable to send request: 0: php_network_getaddresses: getaddrinfo failed: No address associated with hostname.
+[Thu, 20 Jun 2013 15:20:15 +0000] [http://www.newyorkando.com/nueva-york] Connecting to  ...
+[Thu, 20 Jun 2013 15:20:15 +0000] [http://www.newyorkando.com/nueva-york] PURGE /nueva-york HTTP/1.1
+[Thu, 20 Jun 2013 15:20:15 +0000] [http://www.newyorkando.com/nueva-york] Host: www.newyorkando.com
+[Thu, 20 Jun 2013 15:20:15 +0000] [http://www.newyorkando.com/nueva-york] Unable to send request: 0: php_network_getaddresses: getaddrinfo failed: No address associated with hostname.
+[Thu, 20 Jun 2013 15:20:15 +0000] [http://www.newyorkando.com/([a-z0-9_\-]*?)sitemap([a-z0-9_\-]*)?\.xml] Connecting to  ...
+[Thu, 20 Jun 2013 15:20:15 +0000] [http://www.newyorkando.com/([a-z0-9_\-]*?)sitemap([a-z0-9_\-]*)?\.xml] PURGE /([a-z0-9_\-]*?)sitemap([a-z0-9_\-]*)?\.xml HTTP/1.1
+[Thu, 20 Jun 2013 15:20:15 +0000] [http://www.newyorkando.com/([a-z0-9_\-]*?)sitemap([a-z0-9_\-]*)?\.xml] Host: www.newyorkando.com
+[Thu, 20 Jun 2013 15:20:15 +0000] [http://www.newyorkando.com/([a-z0-9_\-]*?)sitemap([a-z0-9_\-]*)?\.xml] Unable to send request: 0: php_network_getaddresses: getaddrinfo failed: No address associated with hostname.
+[Thu, 20 Jun 2013 15:58:02 +0000] [http://www.newyorkando.com/.*] Connecting to  ...
+[Thu, 20 Jun 2013 15:58:02 +0000] [http://www.newyorkando.com/.*] PURGE /.* HTTP/1.1
+[Thu, 20 Jun 2013 15:58:02 +0000] [http://www.newyorkando.com/.*] Host: www.newyorkando.com
+[Thu, 20 Jun 2013 15:58:02 +0000] [http://www.newyorkando.com/.*] Unable to send request: 0: php_network_getaddresses: getaddrinfo failed: No address associated with hostname.
+[Thu, 20 Jun 2013 16:11:12 +0000] [http://www.newyorkando.com/.*] Connecting to  ...
+[Thu, 20 Jun 2013 16:11:12 +0000] [http://www.newyorkando.com/.*] PURGE /.* HTTP/1.1
+[Thu, 20 Jun 2013 16:11:12 +0000] [http://www.newyorkando.com/.*] Host: www.newyorkando.com
+[Thu, 20 Jun 2013 16:11:12 +0000] [http://www.newyorkando.com/.*] Unable to send request: 0: php_network_getaddresses: getaddrinfo failed: No address associated with hostname.
+[Thu, 20 Jun 2013 16:25:48 +0000] [http://www.newyorkando.com/.*] Connecting to  ...
+[Thu, 20 Jun 2013 16:25:48 +0000] [http://www.newyorkando.com/.*] PURGE /.* HTTP/1.1
+[Thu, 20 Jun 2013 16:25:48 +0000] [http://www.newyorkando.com/.*] Host: www.newyorkando.com
+[Thu, 20 Jun 2013 16:25:48 +0000] [http://www.newyorkando.com/.*] Unable to send request: 0: php_network_getaddresses: getaddrinfo failed: No address associated with hostname.
+[Thu, 20 Jun 2013 16:28:02 +0000] [http://www.newyorkando.com/.*] Connecting to  ...
+[Thu, 20 Jun 2013 16:28:02 +0000] [http://www.newyorkando.com/.*] PURGE /.* HTTP/1.1
+[Thu, 20 Jun 2013 16:28:02 +0000] [http://www.newyorkando.com/.*] Host: www.newyorkando.com
+[Thu, 20 Jun 2013 16:28:02 +0000] [http://www.newyorkando.com/.*] Unable to send request: 0: php_network_getaddresses: getaddrinfo failed: No address associated with hostname.
+[Thu, 20 Jun 2013 16:30:26 +0000] [http://www.newyorkando.com/] Connecting to  ...
+[Thu, 20 Jun 2013 16:30:26 +0000] [http://www.newyorkando.com/] PURGE / HTTP/1.1
+[Thu, 20 Jun 2013 16:30:26 +0000] [http://www.newyorkando.com/] Host: www.newyorkando.com
+[Thu, 20 Jun 2013 16:30:26 +0000] [http://www.newyorkando.com/] Unable to send request: 0: php_network_getaddresses: getaddrinfo failed: No address associated with hostname.
+[Thu, 20 Jun 2013 16:30:26 +0000] [http://www.newyorkando.com/wpnyando/] Connecting to  ...
+[Thu, 20 Jun 2013 16:30:26 +0000] [http://www.newyorkando.com/wpnyando/] PURGE /wpnyando/ HTTP/1.1
+[Thu, 20 Jun 2013 16:30:26 +0000] [http://www.newyorkando.com/wpnyando/] Host: www.newyorkando.com
+[Thu, 20 Jun 2013 16:30:26 +0000] [http://www.newyorkando.com/wpnyando/] Unable to send request: 0: php_network_getaddresses: getaddrinfo failed: No address associated with hostname.
+[Thu, 20 Jun 2013 16:30:26 +0000] [http://www.newyorkando.com/page/2] Connecting to  ...
+[Thu, 20 Jun 2013 16:30:26 +0000] [http://www.newyorkando.com/page/2] PURGE /page/2 HTTP/1.1
+[Thu, 20 Jun 2013 16:30:26 +0000] [http://www.newyorkando.com/page/2] Host: www.newyorkando.com
+[Thu, 20 Jun 2013 16:30:26 +0000] [http://www.newyorkando.com/page/2] Unable to send request: 0: php_network_getaddresses: getaddrinfo failed: No address associated with hostname.
+[Thu, 20 Jun 2013 16:30:26 +0000] [http://www.newyorkando.com/page/3] Connecting to  ...
+[Thu, 20 Jun 2013 16:30:26 +0000] [http://www.newyorkando.com/page/3] PURGE /page/3 HTTP/1.1
+[Thu, 20 Jun 2013 16:30:26 +0000] [http://www.newyorkando.com/page/3] Host: www.newyorkando.com
+[Thu, 20 Jun 2013 16:30:26 +0000] [http://www.newyorkando.com/page/3] Unable to send request: 0: php_network_getaddresses: getaddrinfo failed: No address associated with hostname.
+[Thu, 20 Jun 2013 16:30:26 +0000] [http://www.newyorkando.com/page/4] Connecting to  ...
+[Thu, 20 Jun 2013 16:30:26 +0000] [http://www.newyorkando.com/page/4] PURGE /page/4 HTTP/1.1
+[Thu, 20 Jun 2013 16:30:26 +0000] [http://www.newyorkando.com/page/4] Host: www.newyorkando.com
+[Thu, 20 Jun 2013 16:30:26 +0000] [http://www.newyorkando.com/page/4] Unable to send request: 0: php_network_getaddresses: getaddrinfo failed: No address associated with hostname.
+[Thu, 20 Jun 2013 16:30:26 +0000] [http://www.newyorkando.com/page/5] Connecting to  ...
+[Thu, 20 Jun 2013 16:30:26 +0000] [http://www.newyorkando.com/page/5] PURGE /page/5 HTTP/1.1
+[Thu, 20 Jun 2013 16:30:26 +0000] [http://www.newyorkando.com/page/5] Host: www.newyorkando.com
+[Thu, 20 Jun 2013 16:30:26 +0000] [http://www.newyorkando.com/page/5] Unable to send request: 0: php_network_getaddresses: getaddrinfo failed: No address associated with hostname.
+[Thu, 20 Jun 2013 16:30:26 +0000] [http://www.newyorkando.com/feed] Connecting to  ...
+[Thu, 20 Jun 2013 16:30:26 +0000] [http://www.newyorkando.com/feed] PURGE /feed HTTP/1.1
+[Thu, 20 Jun 2013 16:30:26 +0000] [http://www.newyorkando.com/feed] Host: www.newyorkando.com
+[Thu, 20 Jun 2013 16:30:26 +0000] [http://www.newyorkando.com/feed] Unable to send request: 0: php_network_getaddresses: getaddrinfo failed: No address associated with hostname.
+[Thu, 20 Jun 2013 16:30:26 +0000] [http://www.newyorkando.com/hoteles] Connecting to  ...
+[Thu, 20 Jun 2013 16:30:26 +0000] [http://www.newyorkando.com/hoteles] PURGE /hoteles HTTP/1.1
+[Thu, 20 Jun 2013 16:30:26 +0000] [http://www.newyorkando.com/hoteles] Host: www.newyorkando.com
+[Thu, 20 Jun 2013 16:30:26 +0000] [http://www.newyorkando.com/hoteles] Unable to send request: 0: php_network_getaddresses: getaddrinfo failed: No address associated with hostname.
+[Thu, 20 Jun 2013 16:30:26 +0000] [http://www.newyorkando.com/([a-z0-9_\-]*?)sitemap([a-z0-9_\-]*)?\.xml] Connecting to  ...
+[Thu, 20 Jun 2013 16:30:26 +0000] [http://www.newyorkando.com/([a-z0-9_\-]*?)sitemap([a-z0-9_\-]*)?\.xml] PURGE /([a-z0-9_\-]*?)sitemap([a-z0-9_\-]*)?\.xml HTTP/1.1
+[Thu, 20 Jun 2013 16:30:26 +0000] [http://www.newyorkando.com/([a-z0-9_\-]*?)sitemap([a-z0-9_\-]*)?\.xml] Host: www.newyorkando.com
+[Thu, 20 Jun 2013 16:30:26 +0000] [http://www.newyorkando.com/([a-z0-9_\-]*?)sitemap([a-z0-9_\-]*)?\.xml] Unable to send request: 0: php_network_getaddresses: getaddrinfo failed: No address associated with hostname.
+[Thu, 20 Jun 2013 16:32:54 +0000] [http://www.newyorkando.com/] Connecting to  ...
+[Thu, 20 Jun 2013 16:32:54 +0000] [http://www.newyorkando.com/] PURGE / HTTP/1.1
+[Thu, 20 Jun 2013 16:32:54 +0000] [http://www.newyorkando.com/] Host: www.newyorkando.com
+[Thu, 20 Jun 2013 16:32:54 +0000] [http://www.newyorkando.com/] Unable to send request: 0: php_network_getaddresses: getaddrinfo failed: No address associated with hostname.
+[Thu, 20 Jun 2013 16:32:54 +0000] [http://www.newyorkando.com/wpnyando/] Connecting to  ...
+[Thu, 20 Jun 2013 16:32:54 +0000] [http://www.newyorkando.com/wpnyando/] PURGE /wpnyando/ HTTP/1.1
+[Thu, 20 Jun 2013 16:32:54 +0000] [http://www.newyorkando.com/wpnyando/] Host: www.newyorkando.com
+[Thu, 20 Jun 2013 16:32:54 +0000] [http://www.newyorkando.com/wpnyando/] Unable to send request: 0: php_network_getaddresses: getaddrinfo failed: No address associated with hostname.
+[Thu, 20 Jun 2013 16:32:54 +0000] [http://www.newyorkando.com/page/2] Connecting to  ...
+[Thu, 20 Jun 2013 16:32:54 +0000] [http://www.newyorkando.com/page/2] PURGE /page/2 HTTP/1.1
+[Thu, 20 Jun 2013 16:32:54 +0000] [http://www.newyorkando.com/page/2] Host: www.newyorkando.com
+[Thu, 20 Jun 2013 16:32:54 +0000] [http://www.newyorkando.com/page/2] Unable to send request: 0: php_network_getaddresses: getaddrinfo failed: No address associated with hostname.
+[Thu, 20 Jun 2013 16:32:54 +0000] [http://www.newyorkando.com/page/3] Connecting to  ...
+[Thu, 20 Jun 2013 16:32:54 +0000] [http://www.newyorkando.com/page/3] PURGE /page/3 HTTP/1.1
+[Thu, 20 Jun 2013 16:32:54 +0000] [http://www.newyorkando.com/page/3] Host: www.newyorkando.com
+[Thu, 20 Jun 2013 16:32:54 +0000] [http://www.newyorkando.com/page/3] Unable to send request: 0: php_network_getaddresses: getaddrinfo failed: No address associated with hostname.
+[Thu, 20 Jun 2013 16:32:54 +0000] [http://www.newyorkando.com/page/4] Connecting to  ...
+[Thu, 20 Jun 2013 16:32:54 +0000] [http://www.newyorkando.com/page/4] PURGE /page/4 HTTP/1.1
+[Thu, 20 Jun 2013 16:32:54 +0000] [http://www.newyorkando.com/page/4] Host: www.newyorkando.com
+[Thu, 20 Jun 2013 16:32:54 +0000] [http://www.newyorkando.com/page/4] Unable to send request: 0: php_network_getaddresses: getaddrinfo failed: No address associated with hostname.
+[Thu, 20 Jun 2013 16:32:54 +0000] [http://www.newyorkando.com/page/5] Connecting to  ...
+[Thu, 20 Jun 2013 16:32:54 +0000] [http://www.newyorkando.com/page/5] PURGE /page/5 HTTP/1.1
+[Thu, 20 Jun 2013 16:32:54 +0000] [http://www.newyorkando.com/page/5] Host: www.newyorkando.com
+[Thu, 20 Jun 2013 16:32:54 +0000] [http://www.newyorkando.com/page/5] Unable to send request: 0: php_network_getaddresses: getaddrinfo failed: No address associated with hostname.
+[Thu, 20 Jun 2013 16:32:54 +0000] [http://www.newyorkando.com/feed] Connecting to  ...
+[Thu, 20 Jun 2013 16:32:54 +0000] [http://www.newyorkando.com/feed] PURGE /feed HTTP/1.1
+[Thu, 20 Jun 2013 16:32:54 +0000] [http://www.newyorkando.com/feed] Host: www.newyorkando.com
+[Thu, 20 Jun 2013 16:32:54 +0000] [http://www.newyorkando.com/feed] Unable to send request: 0: php_network_getaddresses: getaddrinfo failed: No address associated with hostname.
+[Thu, 20 Jun 2013 16:32:54 +0000] [http://www.newyorkando.com/hoteles] Connecting to  ...
+[Thu, 20 Jun 2013 16:32:54 +0000] [http://www.newyorkando.com/hoteles] PURGE /hoteles HTTP/1.1
+[Thu, 20 Jun 2013 16:32:54 +0000] [http://www.newyorkando.com/hoteles] Host: www.newyorkando.com
+[Thu, 20 Jun 2013 16:32:54 +0000] [http://www.newyorkando.com/hoteles] Unable to send request: 0: php_network_getaddresses: getaddrinfo failed: No address associated with hostname.
+[Thu, 20 Jun 2013 16:32:54 +0000] [http://www.newyorkando.com/([a-z0-9_\-]*?)sitemap([a-z0-9_\-]*)?\.xml] Connecting to  ...
+[Thu, 20 Jun 2013 16:32:54 +0000] [http://www.newyorkando.com/([a-z0-9_\-]*?)sitemap([a-z0-9_\-]*)?\.xml] PURGE /([a-z0-9_\-]*?)sitemap([a-z0-9_\-]*)?\.xml HTTP/1.1
+[Thu, 20 Jun 2013 16:32:54 +0000] [http://www.newyorkando.com/([a-z0-9_\-]*?)sitemap([a-z0-9_\-]*)?\.xml] Host: www.newyorkando.com
+[Thu, 20 Jun 2013 16:32:54 +0000] [http://www.newyorkando.com/([a-z0-9_\-]*?)sitemap([a-z0-9_\-]*)?\.xml] Unable to send request: 0: php_network_getaddresses: getaddrinfo failed: No address associated with hostname.
+[Thu, 20 Jun 2013 16:33:05 +0000] [http://www.newyorkando.com/.*] Connecting to  ...
+[Thu, 20 Jun 2013 16:33:05 +0000] [http://www.newyorkando.com/.*] PURGE /.* HTTP/1.1
+[Thu, 20 Jun 2013 16:33:05 +0000] [http://www.newyorkando.com/.*] Host: www.newyorkando.com
+[Thu, 20 Jun 2013 16:33:05 +0000] [http://www.newyorkando.com/.*] Unable to send request: 0: php_network_getaddresses: getaddrinfo failed: No address associated with hostname.
+[Thu, 20 Jun 2013 16:38:29 +0000] [http://www.newyorkando.com/.*] Connecting to  ...
+[Thu, 20 Jun 2013 16:38:29 +0000] [http://www.newyorkando.com/.*] PURGE /.* HTTP/1.1
+[Thu, 20 Jun 2013 16:38:29 +0000] [http://www.newyorkando.com/.*] Host: www.newyorkando.com
+[Thu, 20 Jun 2013 16:38:29 +0000] [http://www.newyorkando.com/.*] Unable to send request: 0: php_network_getaddresses: getaddrinfo failed: No address associated with hostname.

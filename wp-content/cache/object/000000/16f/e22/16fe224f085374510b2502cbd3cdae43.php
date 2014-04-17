@@ -1,0 +1,26 @@
+�IOS<?php exit; ?>a:1:{s:7:"content";O:8:"stdClass":24:{s:2:"ID";i:1009;s:11:"post_author";s:1:"2";s:9:"post_date";s:19:"2013-04-17 20:25:42";s:13:"post_date_gmt";s:19:"2013-04-17 20:25:42";s:12:"post_content";s:4529:"<div class="asideBlock">
+<h2>Hoteles en Jersey City</h2>
+En <a href="http://www.venere.com/es/nueva-jersey/jersey-city/?ref=1294356" target="_blank">este buscador</a> puedes encontrar <strong>hoteles en Jersey City</strong> cerca de Nueva York
+<h2>Hoteles en Hoboken</h2>
+<a href="http://www.venere.com/es/hoteles/nueva-jersey/jersey-city/hoboken/?ref=1294356" target="_blank">Aquí</a> puedes reservar en línea <strong>hoteles en Hoboken</strong> cerca de Manhattan
+<h2>Mapa de New Jersey</h2>
+[mappress mapid="151"]
+
+</div>
+Si vale la pena <strong>dormir en New Jersey</strong> para ahorrarse unos dólares durante un viaje a Nueva York es una pregunta frecuente que nos hacen nuestros lectores. Trataremos de responderles dándoles algunos puntos de vista para que evalúen si les resulta conveniente <strong>alojarse en Nueva Jersey</strong> durante su <strong>viaje a Nueva York</strong>, especialmente en Jersey City y en Hoboken.
+
+<a href="http://www.flickr.com/photos/jeffmaurone/1452979717/" target="_blank"><img class="aligncenter size-full wp-image-1010" alt="Foto de Jeff Maurone con una Licencia Creative Commons (CC BY-NC-SA 2.0)" src="http://www.newyorkando.com/wpnyando/wp-content/uploads/2013/04/Nueva-York-desde-Hoboken.jpg" width="500" height="334" /></a>
+<h2>Dormir en Jersey City</h2>
+Jersey City -la segunda ciudad más grande de Nueva Jersey- está al frente de <a href="/barrios/manhattan">Manhattan</a> cruzando el río Hudson. Tan cerca está que es considerada parte del <strong>área metropolitana de la ciudad de Nueva York</strong>. Por su proximidad, Jersey City resulta una alternativa más económica para <strong>dormir cerca de Nueva York</strong>. Ahora bien, deben considerar el tiempo que gastarán viajando a la ciudad y las tarifas del transporte que deberán pagar, lo que dependerá de en qué zona de Jersey City se alojen. Entonces, antes de tomar la decisión, les recomendamos revisar en njtransit.com cuánto tiempo y cuánto les costará viajar a Nueva York desde el <a href="http://www.venere.com/es/nueva-jersey/jersey-city/?ref=1294356#" target="_blank">hotel</a> que elijan.
+<h2>Dormir en Hoboken</h2>
+Lo primero que todo amante de Nueva York debe saber es que <strong>Hoboken es la ciudad natal de Frank Sinatra</strong>, ya con eso partimos bien. Al dormir allí podrán imaginarse lo que pasaba por la mente de Sinatra al contemplar la gran manzana (<em>"I want to wake up in that city that doesn't sleep"</em>...). Hoboken -al igual que Jersey City- es considerada parte del área metropolitana de Manhattan, está ubicada justo al frente de <a href="/barrios/manhattan/downtown/west-village" target="_blank">West Village</a> y <a href="/barrios/manhattan/downtown/chelsea" target="_blank">Chelsea</a>.
+
+Para llegar a Hoboken pueden viajar en el PATH, el metro que conecta Nueva York con New Jersey que funciona las 24 horas del día, en el que podrán pagar el trayecto adicional con su <a href="/tarifas-del-metro-del-nueva-york-y-como-usar-la-metrocard" target="_blank">Metrocard</a> (infórmense sobre las tarifas en www.panynj.gov/path). Lo usual es demorarse 30 minutos hasta el centro de Manhattan, pero eso en definitiva dependerá de dónde esté ubicado su <a href="http://www.venere.com/es/hoteles/nueva-jersey/jersey-city/hoboken/?ref=1294356" target="_blank">hotel en Hoboken</a>.
+
+Aunque decidan no <strong>alojarse en Hoboken</strong>, vale la pena visitarlo para tener unas <strong>vistas panorámicas de Manhattan</strong> que nunca olvidarán. Desde cualquiera de los senderos o muelles de Hoboken frente al río Hudson podrán sacar fotos que serán la envidia a su regreso a casa. También será muy fácil <a href="/que-ver/monumentos/estatua-de-la-libertad" target="_blank">visitar la Estatua de la Libertad</a> y la <a href="/que-ver/monumentos/isla-de-ellis" target="_blank">Isla de Ellis</a> desde Nueva Jersey.
+
+&nbsp;
+
+En suma, ¿<strong>vale la pena dormir en Nueva Jersey</strong> si están buscando ahorrar? quizás sí, pero tengan en cuenta que quedarán un poco apartados del ambiente de de NY, que con ruido y todo, es una experiencia que hay que vivir desde adentro. Pero esto no es necesariamente malo, podrán viajar entre las dos ciudades como <a href="/tour-por-las-locaciones-de-los-soprano" target="_blank">Tony Soprano</a> ;)
+
+Antes de tomar la decisión evalúen otras opciones como los <a href="/5-hoteles-baratos-en-brooklyn" target="_blank">hoteles baratos en Brooklyn</a>, que tienen mucha más onda.";s:10:"post_title";s:20:"Dormir en New Jersey";s:12:"post_excerpt";s:0:"";s:11:"post_status";s:7:"publish";s:14:"comment_status";s:6:"closed";s:11:"ping_status";s:4:"open";s:13:"post_password";s:0:"";s:9:"post_name";s:20:"dormir-en-new-jersey";s:7:"to_ping";s:0:"";s:6:"pinged";s:0:"";s:13:"post_modified";s:19:"2013-04-17 20:29:12";s:17:"post_modified_gmt";s:19:"2013-04-17 20:29:12";s:21:"post_content_filtered";s:0:"";s:11:"post_parent";i:280;s:4:"guid";s:40:"http://www.newyorkando.com/?page_id=1009";s:10:"menu_order";i:0;s:9:"post_type";s:4:"page";s:14:"post_mime_type";s:0:"";s:13:"comment_count";s:1:"0";s:6:"filter";s:3:"raw";}}

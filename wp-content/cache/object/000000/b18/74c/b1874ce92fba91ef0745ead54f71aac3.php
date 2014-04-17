@@ -1,0 +1,19 @@
+�IOS<?php exit; ?>a:1:{s:7:"content";O:8:"stdClass":24:{s:2:"ID";i:379;s:11:"post_author";s:1:"2";s:9:"post_date";s:19:"2011-05-27 14:43:26";s:13:"post_date_gmt";s:19:"2011-05-27 14:43:26";s:12:"post_content";s:2852:"<img class="alignnone size-full wp-image-639" title="Centro-Cívico-NewYorkando" src="http://www.newyorkando.com/wpnyando/wp-content/uploads/2011/05/Centro-Cívico-NewYorkando.jpg" alt="" width="640" height="427" />
+<div class="asideBlock"><strong>Transporte: </strong>
+Metro Líneas 4, 5, 6. Estación Brooklyn Bridge-City Hall
+Metro Líneas J, M, Z. Estación Chambers Street<strong>Dirección:</strong>
+El Civic Center está ubicado alrededor del City Hall. Al este limita con el East River, al oeste con <strong>Broadway</strong>, al norte con el <strong>Chinatown</strong> y al sur con el <a href="http://www.newyorkando.com/barrios/manhattan/downtown/distrito-financiero-y-wall-street">Distrito Financiero</a>.
+<h2>Mapa del Centro Cívico</h2>
+[mappress mapid="73"]
+
+</div>
+En este vecindario todo gira en torno al Ayuntamiento de Nueva York -el <strong>City Hall</strong>-, asentado en medio de una cuidada plaza-jardín (<strong>City Hall Park</strong>). Alrededor de él se articulan los edificios gubernamentales de la ciudad, entre ellos los Tribunales de Justicia y las oficinas del Departamento de la Policía de Nueva York, edificios que seguro reconocerán pues aparecen en cuanta serie de crímenes en NY hay.
+
+Esta zona siempre tiene vida, es un punto de concentración usual para las protestas y manifestaciones callejeras. También es un lugar habitual para las cadenas de noticias que, con sus características camionetas estacionadas en los alrededores, siempre están dispuestas a transmitir las declaraciones de los políticos y funcionarios neoyorquinos que por aquí circulan.
+
+Aquí también hay importantes rascacielos, como el <a href="/rascacielos/woolworth-building">Woolworth Building,</a> uno de los más antiguos (1913) y refinado estilo neogótico, el preferido de principios de siglo, la época en que se empezaron a construir las grandes riquezas de la ciudad. Varios de ellos son declarados patrimonio histórico de la ciudad.
+
+Otra atracción del Centro Cívico es que desde él parte el famoso <a href="/puente-de-brooklyn">Puente de Brooklyn</a>, que une Manhattan con este importante distrito de Nueva York. La entrada peatonal al puente está justo al frente del <strong>City Hall</strong>, así que es buena idea hacer la impresionante caminata hacia <a href="/barrios/brooklyn">Brooklyn</a> al visitar este barrio.
+
+Con respecto a la comida, un buen plan cuando se visita la zona es acercarse al <a href="/barrios/manhattan/downtown/chinatown">Chinatown</a>, a solo unas calles del Centro Cívico, donde conseguirán delicias asiáticas en cualquier rincón. Les recomendamos probar los Dim Sum servidos en los locales de Baxter Street.
+<pre>Foto de <a href="http://www.flickr.com/photos/aguichard/4845300712/">Aurelien Guichard</a> bajo una licencia Creative Commons (CC BY-SA 2.0)</pre>";s:10:"post_title";s:15:"Centro Cívico ";s:12:"post_excerpt";s:0:"";s:11:"post_status";s:7:"publish";s:14:"comment_status";s:6:"closed";s:11:"ping_status";s:4:"open";s:13:"post_password";s:0:"";s:9:"post_name";s:13:"centro-civico";s:7:"to_ping";s:0:"";s:6:"pinged";s:0:"";s:13:"post_modified";s:19:"2011-12-16 16:32:55";s:17:"post_modified_gmt";s:19:"2011-12-16 16:32:55";s:21:"post_content_filtered";s:0:"";s:11:"post_parent";i:294;s:4:"guid";s:39:"http://www.newyorkando.com/?page_id=379";s:10:"menu_order";i:0;s:9:"post_type";s:4:"page";s:14:"post_mime_type";s:0:"";s:13:"comment_count";s:1:"0";s:6:"filter";s:3:"raw";}}

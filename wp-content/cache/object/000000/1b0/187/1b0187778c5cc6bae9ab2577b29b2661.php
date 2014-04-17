@@ -1,0 +1,25 @@
+�JOS<?php exit; ?>a:1:{s:7:"content";O:8:"stdClass":24:{s:2:"ID";i:510;s:11:"post_author";s:1:"2";s:9:"post_date";s:19:"2011-07-12 23:39:29";s:13:"post_date_gmt";s:19:"2011-07-12 23:39:29";s:12:"post_content";s:4320:"<img class="alignnone size-full wp-image-782" title="Red-Hook-Brooklyn-Manhattan" src="http://www.newyorkando.com/wpnyando/wp-content/uploads/2011/07/Red-Hook-Brooklyn-Manhattan.jpg" alt="" width="640" height="480" />
+<div class="asideBlock"><strong>Transporte: </strong>
+Metro F. Estación Carroll Street, trasbordar al bus B61
+<strong>Dirección:</strong>
+Península al sur del Downtown Brooklyn
+<h2>Mapa de Red Hook</h2>
+[mappress mapid="98"]
+
+</div>
+Red Hook está ubicado en una península al sur del <a href="/barrios/brooklyn/downtown-brooklyn">Downtown Brooklyn</a>, y es el único punto de la ciudad desde el cual se puede tener una vista frontal total de la <a href="/que-ver/monumentos/estatua-de-la-libertad">Estatua de la Libertad</a>, la cual da la espalda a <a href="/barrios/manhattan">Manhattan</a> para saludar a su Francia originaria. Este barrio uno de los pocos lugares de Nueva York a los que no se puede llegar completamente en metro (el otro es <a href="/barrios/staten-island">Staten Island</a>), lo que no es problema pues la línea de buses B61 es muy eficiente. Si están interesados en <strong>visitar Red Hook</strong> en <a href="/barrios/brooklyn">Brooklyn</a>, entonces tendrán que contemplar más tiempo en el traslado, lo que bien vale la pena si son de los que disfrutan husmear en las zonas grises, esos espacios que mutan de uso frente a nuestros ojos (un truco es tomar el <a href="/transporte/water-taxi">IKEA Express Shuttle</a> desde <a href="/barrios/manhattan/downtown/distrito-financiero-y-wall-street">Wall Street</a>).
+
+Es que Red Hook fue hasta hace poco la zona de los antiguos muelles de Nueva York, incluso atracaban grandes trasatlánticos y hay proyectos para que vuelvan a hacerlo. Es un vecindario muy enigmático incluso para los propios neoyorquinos, aquí viven mayormente inmigrantes latinoamericanos, italoamericanos, trabajadores jubilados de los puertos y un puñado de vanguardistas emprendedores que están haciendo cambiar el perfil del barrio.
+
+Estos cambios a veces son muy polémicos. Por ejemplo, para la construcción de la gran tienda <strong>IKEA</strong> de Red Hook fue preciso demoler edificios históricos y transformar un tradicional muelle en estacionamiento. Si bien la tienda es magnífica, e incluso un paseo para los que no tienen una sucursal de la cadena en su país de origen, es culpable de la desaparición de un buen trozo de historia de Nueva York.
+
+Para otros esta transformación es positiva, puesto que Red Hook llegó a considerarse en algún momento un lugar muy peligroso. Está la referencia de la revista LIFE que en los noventa lo ubicó en su ranking de <strong>peores barrios de Estados Unidos</strong>, llamándolo "the crack capital of America", según registran en <a href="http://en.wikipedia.org/wiki/Red_Hook,_Brooklyn">Wikipedia</a>.
+
+Los seguidores de la serie <em>No Reservations</em> de Anthony Burdain recordarán un episodio en que se encuentra con su su bizarro colega Andrew Zimmern en un bar de bikers en Red Hook y luego prueban las especialidades de vendedores callejeros latinoamericanos. El dato que Burdain nos obsequia es que Red Hook es uno de los últimos rincones de Nueva York en donde se puede tomar una buena cerveza a las 11 de la mañana.
+
+Otra de las atracciones de Red Hook, además de sus auténticos bares, es el <strong>Red Hook Waterfront Arts Festival</strong>, un festival veraniego anual, donde hay música, danza, teatro y poesía para toda la familia.
+
+Cerramos con un trío de referencias culturales: en Red Hook transcurre la historia de 1927 de H. P. Lovecraft "The Horror at Red Hook", así como también la obra "A view from the Bridge" de Arthur Miller, el último esposo de Marilyn Monroe. Por último, en este barrio nace Joey Gallo, el mafioso a quien Bob Dylan se refiere en su "Joey"del album <em>Desire</em>.
+
+<strong>Tip</strong>: Si van a IKEA desde Manhattan la forma más rápida de llegar es tomando el servicio del<strong> </strong><a href="/transporte/water-taxi">New York Water Taxi</a>, que zarpa desde el Pier 11 en <a href="/barrios/manhattan/downtown/lower-manhattan">Lower Manhattan</a>. Que por cierto es gratuito los fines de semana y parte cada 20 minutos desde la 11 de la mañana.
+<pre>Foto de Andrea H. Madrid</pre>";s:10:"post_title";s:8:"Red Hook";s:12:"post_excerpt";s:0:"";s:11:"post_status";s:7:"publish";s:14:"comment_status";s:6:"closed";s:11:"ping_status";s:4:"open";s:13:"post_password";s:0:"";s:9:"post_name";s:8:"red-hook";s:7:"to_ping";s:0:"";s:6:"pinged";s:0:"";s:13:"post_modified";s:19:"2011-12-11 19:33:59";s:17:"post_modified_gmt";s:19:"2011-12-11 19:33:59";s:21:"post_content_filtered";s:0:"";s:11:"post_parent";i:290;s:4:"guid";s:39:"http://www.newyorkando.com/?page_id=510";s:10:"menu_order";i:0;s:9:"post_type";s:4:"page";s:14:"post_mime_type";s:0:"";s:13:"comment_count";s:1:"0";s:6:"filter";s:3:"raw";}}

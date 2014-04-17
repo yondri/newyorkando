@@ -1,0 +1,61 @@
+/*
+Theme Name: Titan
+Theme URI: http://thethemefoundry.com/titan/
+Description: A refined, balanced, and exceptionally handsome WordPress theme. The sidebar and footer are widget-ready, and you can use the theme options menu to customize the main navigation, show a link to your Twitter account, and set a custom homepage message.
+Version: 1.26-wpcom
+Author: The Theme Foundry
+Author URI: http://thethemefoundry.com
+Tags: fixed-width, two-columns, white, brown, right-sidebar, theme-options, sticky-post, translation-ready, rtl-language-support, custom-menu, featured-images, blog, boyish, clean, elegant, lifestream
+*/
+
+/*
+	Copyright (C) 2008 - 2010 The Theme Foundry
+
+	This program is free software: you can redistribute it and/or modify
+	it under the terms of the GNU General Public License as published by
+	the Free Software Foundation, either version 3 of the License, or
+	(at your option) any later version.
+
+	This program is distributed in the hope that it will be useful,
+	but WITHOUT ANY WARRANTY; without even the implied warranty of
+	MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.	See the
+	GNU General Public License for more details.
+
+	You should have received a copy of the GNU General Public License
+	along with this program.	If not, see <http://www.gnu.org/licenses/>.
+*/
+
+/* Import Stylesheets
+-----------------------------------------------------------*/
+@import url("stylesheets/master.css");
+
+/* Required WordPress Classes, don't remove these.
+-----------------------------------------------------------*/
+.aligncenter {
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+}
+.alignleft { float: left; }
+.alignright { float: right; }
+
+/* WordPress.com
+---------------------------
+*/
+.widget p, .widget_twitter li {
+	margin: 5px 0;
+	line-height: 1.5em;
+}
+.widget_recent_comments tr td, .widget_flickr tr td {
+	background: none;
+}
+.gallery {
+	padding-bottom: 10px;
+}
+#wpstats {
+	display: none;
+}
+.comment object,
+.comment embed {
+	max-width: 497px;
+}

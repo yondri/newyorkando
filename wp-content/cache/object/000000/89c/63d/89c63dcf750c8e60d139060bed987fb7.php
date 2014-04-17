@@ -1,0 +1,15 @@
+�JOS<?php exit; ?>a:1:{s:7:"content";O:8:"stdClass":24:{s:2:"ID";i:447;s:11:"post_author";s:1:"2";s:9:"post_date";s:19:"2011-06-28 00:14:05";s:13:"post_date_gmt";s:19:"2011-06-28 00:14:05";s:12:"post_content";s:2086:"<img class="alignnone size-full wp-image-478" title="Murray-Hill-NewYorkando" src="http://www.newyorkando.com/wpnyando/wp-content/uploads/2011/06/Murray-Hill-NewYorkando.jpg" alt="" width="427" height="640" />
+<div class="asideBlock">
+<h3><strong>Transporte: </strong>
+Líneas 4, 5, 6, 7. Estación Grand Central-42 st
+<strong>Dirección:</strong>
+Murray Hill está entre la calle 27 al sur y la 42 al norte, y entre la Avenida Madison al oesete y el East River al este</h3>
+[mappress mapid="89"]
+<h3>Murray Hill es ideal para alojarse en <a href="/apartamentos">apartamentos</a>.</h3>
+</div>
+Murray Hill es un pequeño y exclusivo barrio de <a href="/barrios/manhattan">Manhattan</a>. En otros tiempos fue hogar de potentados y millonarios, pero hoy en día se ha convertido en residencia de jóvenes profesionales, por su cercanía con el centro, y de personal diplomático, por estar próximo a las <a href="/naciones-unidas" target="_blank">Naciones Unidas</a> y a muchas embajadas y consulados que hoy ocupan las viejas mansiones de antaño.
+
+Como notarán, si transitan por allí, es fundamentalmente un barrio residencial de Nueva York, pero también tiene bares muy interesantes y llenos de universitarios en la 3a avenida. Con respecto a su oferta gastronómica, en Lexington Avenue, entre las calles 27 y la 30, se encuentra otra Pequeña India -informalmente llamada <em>Curry Hill</em>- mucho más reducida que la de <a href="/barrios/queens/jackson-heights">Jackson Heights</a> en <a href="/barrios/queens">Queens</a>, pero con una considerable oferta de restaurantes y tiendas del Sur de la India y muy cerca del corazón de la ciudad.
+
+En Murray Hill quedan algunas construcciones del siglo XIX muy bien preservadas, como las de <strong>Sniffen Court</strong> (150 al 158 de la calle 36), que fueron utilizadas como fondo de la portada del disco <em>Strange Days</em> de <strong>The Doors</strong> (1967).
+<pre>Foto de <a href="http://www.flickr.com/photos/endymion120/5461095264/">Vincent Desjardins</a> bajo una licencia Creative Commons (CC BY 2.0)</pre>";s:10:"post_title";s:11:"Murray Hill";s:12:"post_excerpt";s:0:"";s:11:"post_status";s:7:"publish";s:14:"comment_status";s:6:"closed";s:11:"ping_status";s:4:"open";s:13:"post_password";s:0:"";s:9:"post_name";s:11:"murray-hill";s:7:"to_ping";s:0:"";s:6:"pinged";s:0:"";s:13:"post_modified";s:19:"2012-12-06 22:17:14";s:17:"post_modified_gmt";s:19:"2012-12-06 22:17:14";s:21:"post_content_filtered";s:0:"";s:11:"post_parent";i:298;s:4:"guid";s:39:"http://www.newyorkando.com/?page_id=447";s:10:"menu_order";i:0;s:9:"post_type";s:4:"page";s:14:"post_mime_type";s:0:"";s:13:"comment_count";s:1:"0";s:6:"filter";s:3:"raw";}}

@@ -1,0 +1,272 @@
+msgid ""
+msgstr ""
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: Chris Lüscher <christoph@informationarchitects.ch>\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+
+#. Text in echo
+#: iA3 1.1.0/index.php:50
+msgid "About"
+msgstr "Über"
+
+#. Text in echo
+#: iA3 1.1.0/index.php:67
+msgid "All Articles"
+msgstr "Alle Artikel"
+
+#. Text in echo
+#: iA3 1.1.0/functions.php:251
+msgid "Categories"
+msgstr "Kategorien"
+
+#. Text in echo
+#: iA3 1.1.0/index.php:24
+msgid "Featured Article"
+msgstr "Hauptartikel"
+
+#. Text in echo
+#: iA3 1.1.0/404.php:22
+msgid "File Not Found"
+msgstr "404 - Nicht gefunden"
+
+#. Text in echo
+#: iA3 1.1.0/index.php:58
+msgid "Latest Articles"
+msgstr "Letzte Artikel"
+
+#. Text in echo
+#: iA3 1.1.0/index.php:51
+msgid "Learn more"
+msgstr "Mehr erfahren"
+
+#. Text in echo
+#: iA3 1.1.0/404.php:25
+msgid "Oops, Not Found!"
+msgstr "Oops, da is' nix"
+
+#. Text in function
+#: iA3 1.1.0/functions.php:281
+msgid "Page Name"
+msgstr "Namen der Seite"
+
+#. Text in echo
+#: iA3 1.1.0/functions.php:263
+msgid "Pages"
+msgstr "Seiten"
+
+#. Text in echo
+#: iA3 1.1.0/404.php:28
+msgid "Return to the home page."
+msgstr "Zurück zur Startseite."
+
+#. Text in function
+#: iA3 1.1.0/search.php:21
+msgid "Search Results for &lsquo;%s&rsquo;"
+msgstr "Suchresultate für &lsquo;%s&rsquo;"
+
+#. Text in echo
+#: iA3 1.1.0/404.php:26
+msgid "Sorry, we were unable to find the page you were looking for."
+msgstr "Leider können wir die Seite, nach der Sie gesucht haben nicht finden."
+
+#. Text in function
+#: iA3 1.1.0/functions.php:1
+msgid "Unknown"
+msgstr "Unbekannt"
+
+#. Text in function
+#: iA3 1.1.0/functions.php:1
+msgid "Your miscellaneous settings have been successfully updated"
+msgstr "Ihre Einstellungen wurden erfolgreich aktualisiert"
+
+#. Text in function
+#: iA3 1.1.0/functions.php:1
+msgid "Your navigation settings have been successfully updated"
+msgstr "Ihre Einstellungen wurden erfolgreich aktualisiert"
+
+#. Text in function
+#: iA3 1.1.0/search.php:39
+msgid "Your search for <em>%s</em> returned no results."
+msgstr "Ihre Suche nach <em>%s</em> ergab keine Resultate."
+
+#. Text in function
+#: iA3 1.1.0/single.php:29
+msgid "&laquo; Previous"
+msgstr "&laquo; Zurück"
+
+#. Text in echo
+#: iA3 1.1.0/single.php:31
+msgid "&laquo; Previous;"
+msgstr "&laquo; Zurück;"
+
+#. Text in echo
+#: iA3 1.1.0/contact.php:22
+#: iA3 1.1.0/admin_tab_1.php:79
+msgid "Contact"
+msgstr "Kontakt"
+
+#. Text in function
+#: iA3 1.1.0/single.php:34
+msgid "Edit"
+msgstr "Bearbeiten"
+
+#. Text in echo
+#: iA3 1.1.0/comments.php:38
+msgid "Email (required)"
+msgstr "Email (erforderlich)"
+
+#. Text in echo
+#: iA3 1.1.0/admin_tab_1.php:150
+msgid "Footer"
+msgstr "Footer"
+
+#. Text in echo
+#: iA3 1.1.0/admin_tab_1.php:9
+msgid "Header"
+msgstr "Header"
+
+#. Text in echo
+#: iA3 1.1.0/contact.php:36
+msgid "LinkedIn"
+msgstr "LinkedIn"
+
+#. Text in echo
+#: iA3 1.1.0/contact.php:30
+msgid "Mail"
+msgstr "Email"
+
+#. Text in echo
+#: iA3 1.1.0/admin_tab_1.php:3
+#: iA3 1.1.0/admin_tab_2.php:3
+msgid "Miscellaneous"
+msgstr "Verschiedenes"
+
+#. Text in echo
+#: iA3 1.1.0/comments.php:34
+msgid "Name (required)"
+msgstr "Name (erforderlich)"
+
+#. Text in echo
+#: iA3 1.1.0/admin_tab_1.php:2
+#: iA3 1.1.0/admin_tab_2.php:2
+msgid "Navigation"
+msgstr "Navigation"
+
+#. Text in echo
+#: iA3 1.1.0/contact.php:52
+msgid "Newsletter"
+msgstr "Newsletter"
+
+#. Text in function
+#: iA3 1.1.0/single.php:37
+#: iA3 1.1.0/single.php:39
+msgid "Next &raquo;"
+msgstr "Vorwärts &raquo;"
+
+#. Text in echo
+#: iA3 1.1.0/contact.php:32
+msgid "Phone"
+msgstr "Telefon"
+
+#. Text in echo
+#: iA3 1.1.0/archives.php:33
+#: iA3 1.1.0/index.php:63
+#: iA3 1.1.0/search.php:34
+msgid "Read more"
+msgstr "Weiterlesen"
+
+#. Text in echo
+#: iA3 1.1.0/admin_tab_1.php:169
+#: iA3 1.1.0/admin_tab_2.php:44
+msgid "Save Settings"
+msgstr "Einstellungen speichern"
+
+#. Text in echo
+#: iA3 1.1.0/searchform.php:3
+#: iA3 1.1.0/searchform.php:5
+#: iA3 1.1.0/inc_body_footer.php:5
+msgid "Search"
+msgstr "Suche"
+
+#. Text in function
+#: iA3 1.1.0/admin_tab_1.php:14
+#: iA3 1.1.0/admin_tab_1.php:19
+#: iA3 1.1.0/admin_tab_1.php:24
+#: iA3 1.1.0/admin_tab_1.php:29
+#: iA3 1.1.0/admin_tab_1.php:85
+#: iA3 1.1.0/admin_tab_1.php:90
+#: iA3 1.1.0/admin_tab_1.php:95
+#: iA3 1.1.0/admin_tab_1.php:100
+msgid "Section Title"
+msgstr "Absatztitel"
+
+#. Text in echo
+#: iA3 1.1.0/admin_tab_2.php:16
+msgid "Specify the highlight colour used throughout the theme, as either a hexadecimal or RGB colour code."
+msgstr "Diese Farbe wird für hervorgehobene Inhalte verwendet, bitte einen hexadezimal- oder RGB-Farbcode eingeben."
+
+#. Text in echo
+#: iA3 1.1.0/admin_tab_2.php:36
+msgid "Specify the image you wish to use in the theme header. The optimal size is 142 pixels wide and 55 pixels tall."
+msgstr "Logo-Bild, optimale Grösse: 142x55 Pixel."
+
+#. Text in echo
+#: iA3 1.1.0/admin_tab_2.php:26
+msgid "Specify the lowlight colour used throughout the theme, as either a hexadecimal or RGB colour code."
+msgstr "Diese Farbe wird für normale Inhalte verwendet, bitte einen hexadezimal- oder RGB-Farbcode eingeben."
+
+#. Text in echo
+#: iA3 1.1.0/comments.php:50
+msgid "Submit"
+msgstr "Abschicken"
+
+#. Text in echo
+#: iA3 1.1.0/contact.php:54
+msgid "Subscribe"
+msgstr "Abonnieren"
+
+#. Text in echo
+#: iA3 1.1.0/admin_tab_2.php:11
+msgid "Theme Highlight Colour"
+msgstr "Theme: Markierungsfarbe"
+
+#. Text in echo
+#: iA3 1.1.0/admin_tab_2.php:31
+msgid "Theme Logo Image"
+msgstr "Theme: Logo"
+
+#. Text in echo
+#: iA3 1.1.0/admin_tab_2.php:21
+msgid "Theme Lowlight Colour"
+msgstr "Theme: Standardfarbe"
+
+#. Text in echo
+#: iA3 1.1.0/tweets.php:21
+msgid "Tweets"
+msgstr "Tweets"
+
+#. Text in echo
+#: iA3 1.1.0/contact.php:34
+msgid "Twitter"
+msgstr "Twitter"
+
+#. Text in echo
+#: iA3 1.1.0/contact.php:26
+msgid "View in Google Maps"
+msgstr "Bei Google Maps anzeigen"
+
+#. Text in echo
+#: iA3 1.1.0/comments.php:42
+msgid "Website"
+msgstr "Webseite"
+
+#. Text in echo
+#: iA3 1.1.0/comments.php:46
+msgid "Your comment (required)"
+msgstr "Ihr Kommentar (erforderlich)"
+

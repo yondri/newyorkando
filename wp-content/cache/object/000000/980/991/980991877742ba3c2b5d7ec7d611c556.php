@@ -1,0 +1,25 @@
+�IOS<?php exit; ?>a:1:{s:7:"content";O:8:"stdClass":24:{s:2:"ID";i:516;s:11:"post_author";s:1:"2";s:9:"post_date";s:19:"2011-07-15 00:02:04";s:13:"post_date_gmt";s:19:"2011-07-15 00:02:04";s:12:"post_content";s:4070:"<a title="Foto de emilydickinsonridesabmx bajo una licencia Creative Commons (CC BY 2.0)" href="http://www.newyorkando.com/barrios/brooklyn/bay-ridge" target="_blank"><img class="alignnone size-full wp-image-517" title="Bay-Ridge Brooklyn Newyorkando" src="http://www.newyorkando.com/wpnyando/wp-content/uploads/2011/07/Bay-Ridge-Newyorkando.jpg" alt="Bay Ridge, en Nueva York" width="640" height="426" /></a>
+<h2 class="asideBlock"><strong>Transporte</strong></h2>
+<p class="asideBlock">Metro R. Estaciones 77th St, 86th St y Bay Ridge-95th St
+Dirección:
+Bay Ridge está entre la calle 65th al norte y la 101th al sur, y entre la I-278 al este y Shore Road y el puerto al oeste</p>
+
+<h2 class="asideBlock"></h2>
+<h2>Mapa de Bay Ridge</h2>
+[mappress mapid="101"]
+<h2>Hoteles en Bay Ridge</h2>
+Haz click aquí si buscas <a title="Hoteles en Nueva York" href="/hoteles">alojamiento en Bay Ridge, Brooklyn, New York</a>
+
+<strong>Bay Ridge</strong> es otro barrio al suroeste de <a href="/barrios/brooklyn">Brooklyn</a>, a la sombra del <strong>Verrazano-Narrows Bridge</strong> como les gusta decir a sus habitantes, el puente que une Brooklyn con <a title="Staten Island" href="/barrios/staten-island" target="_blank">Staten Island</a>. En esencia es muy parecido a su vecino Bensonhurst y también es famoso por las <em>hip hips</em> de <strong>Tony Manero</strong> en <em>Saturday Night Fever</em> (1977).
+
+La famosa escena de John Travolta (la pueden ver en nuestra sección sobre <a title="Bensonhurst" href="/barrios/brooklyn/bensonhurst" target="_blank">Bensohurst</a>) en la discoteca del <em>dance floor</em> iluminado, que cambió la forma de bailar del mundo, fue filmada en <em>2001 Odyssey</em>, una disco de Bay Ridge (802 64th Street) que en en 1987 pasó a ser un club gay llamado <em>Spectrum</em> y en 2005 cerrada y entendemos pronta a demolerse. Su famoso piso de luces y la bola de la disco fueron rematados en e-bay, arrebatándolos de los pies de las nuevas generaciones de discodancers.
+
+Mientras más indagamos en la historia de Nueva York más peleamos con su "gentrification", ese proceso de aburguesamiento que ha dado al traste con gemas de la cultura pop como el <strong>CBGB</strong>, clausurado en 2006 por no poder pagar las altas rentas, y en el caso de esta famosa disco imaginamos que pasó lo mismo. Sin embargo, también hay ganancias en esta renovación urbana y siempre habrá quienes son felices al ver un <em>Starbucks</em> en su esquina. <em>Is up to you</em>...
+
+Después de desahogarnos, ya podemos conocer un poco más de Bay Ridge. Este barrio fue desarrollado a finales del siglo XIX como un club de campo para las clases adineradas de <a href="/barrios/manhattan">Manhattan</a>. En ese entonces era conocido como<em> Yellow Hook</em>, por el color amarillento de su tierra. Con el tiempo se convirtió en hogar de italianos, irlandeses y escandinavos, hoy en día, al igual que en Bensonhurst, se está convirtiendo en territorio cantonés.
+
+Bay Ridge tiene muchas pizzerías, trattorías y irish pubs, buena parte de ellos concentrados entre la Tercera Avenida, entre las calles 76th y 97th, lo que suele llamarse coloquialmente como "Brooklyn's Gold Coast".
+
+En Bay Ridge se le rinde tributo al pasado en <strong>The Raggamuffin Parade</strong>, evento al aire libre que se realiza en la Tercera Avenida los primeros sábados de octubre. Además de los desfiles y carrozas que tanto gustan a los norteamericanos, se hace una exhibición de vehículos antiguos, tal cual el que vemos en la foto del encabezado. Es impresionante ver la cantidad de coches <em>vintage</em> que se acercan al festival y lo bien mantenidos que están.
+
+Cerramos esta sección sobre Bay Ridge con una línea de Peggy Olsen, la copywriter de origen noruego de la serie <em>Mad Men</em> -filmada en los <a title="Estudios Silvercup" href="/espectaculos/cine/estudios-silvercup" target="_blank">Estudios Silvercup</a> por cierto-, cuando en el segundo episodio declara: <em>"I'm from Bay Ridge. We have manners"</em>.";s:10:"post_title";s:9:"Bay Ridge";s:12:"post_excerpt";s:0:"";s:11:"post_status";s:7:"publish";s:14:"comment_status";s:6:"closed";s:11:"ping_status";s:4:"open";s:13:"post_password";s:0:"";s:9:"post_name";s:9:"bay-ridge";s:7:"to_ping";s:0:"";s:6:"pinged";s:0:"";s:13:"post_modified";s:19:"2012-05-30 13:31:07";s:17:"post_modified_gmt";s:19:"2012-05-30 13:31:07";s:21:"post_content_filtered";s:0:"";s:11:"post_parent";i:290;s:4:"guid";s:39:"http://www.newyorkando.com/?page_id=516";s:10:"menu_order";i:0;s:9:"post_type";s:4:"page";s:14:"post_mime_type";s:0:"";s:13:"comment_count";s:1:"0";s:6:"filter";s:3:"raw";}}

@@ -1,0 +1,1 @@
+IOS<?php exit; ?>a:1:{s:7:"content";a:8:{s:21:"akismet_comment_nonce";b:1;s:23:"wp_smushit_smushit_auto";b:1;s:26:"wp_smushit_smushit_timeout";b:1;s:16:"wpseo_permalinks";b:1;s:21:"widget_akismet_widget";b:1;s:22:"widget_nrelate-related";b:1;s:33:"_addSticky-for-wordpress--options";b:1;s:14:"theme_switched";b:1;}}

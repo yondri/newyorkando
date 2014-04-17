@@ -1,0 +1,24 @@
+�JOS<?php exit; ?>a:1:{s:7:"content";O:8:"stdClass":24:{s:2:"ID";i:157;s:11:"post_author";s:1:"2";s:9:"post_date";s:19:"2011-02-18 17:02:53";s:13:"post_date_gmt";s:19:"2011-02-18 17:02:53";s:12:"post_content";s:3922:"<img class="alignnone size-full wp-image-774" title="Long-Island-City-Queens-Newyorkando" src="http://www.newyorkando.com/wpnyando/wp-content/uploads/2011/02/Long-Island-City-Queens-Newyorkando.jpg" alt="" width="480" height="640" />
+<div class="asideBlock"><strong>Profundizando en el arte contemporáneo de NY</strong>
+El arte en Nueva York está también fuera de los museos. Si quieren rastrearlo tomen este <a href="http://www.partner.viator.com/es/8021/tours/Nueva-York/New-York-Neighborhood-Contemporary-Art-Tour/d687-5279ART" target="_blank">tour con expertos</a> por los barrios más vanguardistas.
+
+<strong>Transporte a Long Island City: </strong>
+Metro E, G, V, 7. Estación 45th Road Court House Sq o Vernon Blvd-Jackson Ave
+Metro E y V. Estación 23rd St-Ely Ave
+Metro G. Estación Long Island City-Court Sq
+<h2>Mapa de Long Island City</h2>
+[mappress mapid="33"]
+
+</div>
+Si bien la zona no es la más bonita, es el barrio más vanguardista de Queens y uno de los más movidos de la ciudad. Esto por ser sede de dos importantes <strong>núcleos de arte contemporáneo y nuevas tendencias de Nueva York</strong>, el Centro de Arte Contemporáneo <a href="http://www.newyorkando.com/museos/centro-de-arte-contemporaneo-ps1">PS1</a> y la meca del graffiti <a href="http://www.newyorkando.com/museos/5-pointz">5 Pointz</a>, ambos de visita obligada para los amantes del arte. Pueden hacer un <a href="http://www.partner.viator.com/es/8021/tours/Nueva-York/New-York-Neighborhood-Contemporary-Art-Tour/d687-5279ART" target="_blank">tour con especialistas en arte contemporáneo</a> por la zona para maximizar la experiencia.
+
+Long Island es hogar de muchos inmigrantes latinoamericanos y de cientos de jóvenes profesionales que han encontrado aquí rentas alcanzables y cómodos espacios. El paisaje urbano es muy variado, con la constante presencia de las vías elevadas del metro y viejas fábricas pintadas de graffitis aquí glorificados. A esto se le suman los prodigiosos atardeceres y vistas de Manhattan al otro lado del East River.
+
+En Long Island City está ubicado el <strong>Edificio Citicorp</strong>, el más elevado de Queens y visible desde buena parte del barrio. Este moderna construcción contrasta con el carácter industrial de la zona, muy evidente a lo largo de David Street, al sur de Jackson Avenue, bajo la línea 7 del metro. Estas calles son una sucesión interminable de paredones de fábricas llenos hasta el tope de graffitis.
+
+Ahora bien, estos complejos industriales ceden cada vez más terreno a otro tipo de usos. Muchas productoras audiovisuales se han asentado en el área, quizás siguiendo el ejemplo de los los famosos estudios <a href="http://www.newyorkando.com/lugares-importantes/estudios-silvercup">Silvercup</a>, donde se produjeron <em>Sex and the City</em>, <em>Mad Men</em>, <em>Los Soprano</em> y <em>30 Rock</em> entre otras reconocidas series además de muchas películas.
+
+Varios canales de televisión sudamericanos tienen aquí su sede, y buena parte de los contenidos audiovisuales coreanos son aquí grabados para luego exportarse al país asiático. Todo este movimiento ha atraído a cientos de artistas que han instalado en los viejos edificios industriales de Long Island sus talleres, galerías y estudios, convirtiéndolos en modernos lofts.
+
+Además del <a href="http://www.newyorkando.com/museos/centro-de-arte-contemporaneo-ps1">PS1</a> y <a href="http://www.newyorkando.com/museos/5-pointz">5 Pointz</a>, vale la pena visitar el relajante <a href="http://www.newyorkando.com/museos/isamu-noguchi-garden-museum">Isamu Noguchi Garden Museum</a> y el <a href="http://www.newyorkando.com/museos/socrates-sculpture-park">Socrates Sculpture Park</a>. Es definitivo, hay que <strong>visitar Long Island City</strong>, una de las zonas grises donde ya está emergiendo el futuro de la ciudad.
+<pre>Foto de Andrea H. Madrid</pre>";s:10:"post_title";s:16:"Long Island City";s:12:"post_excerpt";s:0:"";s:11:"post_status";s:7:"publish";s:14:"comment_status";s:4:"open";s:11:"ping_status";s:4:"open";s:13:"post_password";s:0:"";s:9:"post_name";s:16:"long-island-city";s:7:"to_ping";s:0:"";s:6:"pinged";s:0:"";s:13:"post_modified";s:19:"2011-12-11 16:53:58";s:17:"post_modified_gmt";s:19:"2011-12-11 16:53:58";s:21:"post_content_filtered";s:0:"";s:11:"post_parent";i:153;s:4:"guid";s:26:"http://www.newyorkando.com";s:10:"menu_order";i:0;s:9:"post_type";s:4:"page";s:14:"post_mime_type";s:0:"";s:13:"comment_count";s:1:"0";s:6:"filter";s:3:"raw";}}

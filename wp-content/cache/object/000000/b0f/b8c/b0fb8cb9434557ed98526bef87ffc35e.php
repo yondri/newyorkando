@@ -1,0 +1,17 @@
+�JOS<?php exit; ?>a:1:{s:7:"content";O:8:"stdClass":24:{s:2:"ID";i:205;s:11:"post_author";s:1:"2";s:9:"post_date";s:19:"2011-02-28 13:40:45";s:13:"post_date_gmt";s:19:"2011-02-28 13:40:45";s:12:"post_content";s:2413:"<img src="http://www.newyorkando.com/wpnyando/wp-content/uploads/2011/02/Flushing-Meadows-Park-NewYorkando.jpg" alt="" title="Flushing-Meadows-Park-NewYorkando" width="640" height="425" class="alignnone size-full wp-image-477" />
+<div class="asideBlock">
+<h3><strong>Transporte: </strong>
+Línea 7. Estación Willets Point-Mets</h3>
+[mappress mapid="45"]
+
+</div>
+El Flushing Meadows Corona Park es el segundo parque más grande de Nueva York (el más grande es el <a href="http://www.newyorkando.com/parques/pelham-bay-park">Pelham Bay Park</a> en el Bronx). Fue diseñado por el urbanista Robert Moses como recinto de la Feria Mundial de 1939. Antes de este cambio de uso era un enorme vertedero de basura, que llegó a ser bautizado por F. Scott Fitzgerald en <em>El Gran Gatsby</em> como un "valle de cenizas", debido a la polución que arrojaba desde su enorme incinerador.
+
+El parque aloja importantes instalaciones deportivas como el <a href="http://www.newyorkando.com/espectaculos/city-field-stadium">City Field Stadium</a>, recién estrenada sede de los Mets de Nueva York, y el Centro Nacional de Tennis, donde se lleva a cabo el US Open. Otras de sus atracciones son el <em>Salón de la Ciencia </em>de Nueva York, el <a href="http://www.newyorkando.com/parques/jardin-botanico-de-queens">Jardín Botánico de Queens</a> y el <a href="http://www.newyorkando.com/museos/museo-de-arte-de-queens">Museo de Arte de Queens</a>.
+
+El haber sido sede de dos Ferias Mundiales legó interesantes monumentos al parque. Entre los más destacados están la Uniesfera, un monumental globo de acero, y las tres torres del pabellón del Estado de Nueva York, recordadas por haber sido convertidas en naves espaciales en la película <em>Men in Black</em>, lamentablemente muy mal mantenidas.
+
+<img class="alignnone size-full wp-image-210" title="New York State Pavillion Towers" src="http://www.newyorkando.com/wpnyando/wp-content/uploads/2011/02/New-York-State-Pavillion-Towers.jpg" alt="" width="333" height="500" />
+
+Si bien el parque está abierto las 24 horas, visitarlo de noche no es buena idea, particularmente para el que lo visita por primera vez. Es fácil extraviarse por su enorme extensión y no cuenta con un buen sistema de seguridad.
+<pre>Foto de <a href="http://www.flickr.com/photos/stefanedberg62/3075639814/">stefanedberg</a> bajo una licencia Creative Commons (CC BY-SA 2.0)</pre>";s:10:"post_title";s:28:"Flushing Meadows Corona Park";s:12:"post_excerpt";s:0:"";s:11:"post_status";s:7:"publish";s:14:"comment_status";s:4:"open";s:11:"ping_status";s:4:"open";s:13:"post_password";s:0:"";s:9:"post_name";s:28:"flushing-meadows-corona-park";s:7:"to_ping";s:0:"";s:6:"pinged";s:0:"";s:13:"post_modified";s:19:"2011-06-27 18:41:08";s:17:"post_modified_gmt";s:19:"2011-06-27 18:41:08";s:21:"post_content_filtered";s:0:"";s:11:"post_parent";i:14;s:4:"guid";s:39:"http://www.newyorkando.com/?page_id=205";s:10:"menu_order";i:0;s:9:"post_type";s:4:"page";s:14:"post_mime_type";s:0:"";s:13:"comment_count";s:1:"0";s:6:"filter";s:3:"raw";}}

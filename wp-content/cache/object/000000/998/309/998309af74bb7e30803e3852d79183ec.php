@@ -1,0 +1,26 @@
+�IOS<?php exit; ?>a:1:{s:7:"content";O:8:"stdClass":24:{s:2:"ID";i:390;s:11:"post_author";s:1:"2";s:9:"post_date";s:19:"2011-06-01 23:44:55";s:13:"post_date_gmt";s:19:"2011-06-01 23:44:55";s:12:"post_content";s:4491:"<img class="alignnone size-full wp-image-466" title="Chelsea-Galería-Newyorkando" src="http://www.newyorkando.com/wpnyando/wp-content/uploads/2011/06/Chelsea-Galería-Newyorkando1.jpg" alt="" width="640" height="426" />
+<div class="asideBlock">
+<h3><strong>Transporte: </strong>
+Línea
+<strong>Dirección:</strong>
+Chelsea está ubicado entre la 14th Street al sur y la 30th Street al norte, y la Avenida de las Américas (Sixth Avenue) al este y el Hudson River al oeste.</h3>
+[mappress mapid="76"]
+
+</div>
+Chelsea, al oeste del <a href="http://www.newyorkando.com/barrios/manhattan/downtown">Downtown</a> de <a href="http://www.newyorkando.com/barrios/manhattan">Manhattan</a>, como todo en Nueva York se ha transformado mucho en los últimos tres siglos. En 1750, durante la construcción de la línea de tren en la Avenida 11, era fundamentalmente un barrio de clase obrera. Desde 1930 el peligroso ferrocarril, que tantas víctimas dejó al atravesar calles muy transitadas, ya no existe y una de sus líneas elevadas es el hermoso <a href="/que-ver/parques/high-line-park" target="_blank">High Line Park</a>.
+
+La población tampoco podía ser más diferente, desde la avenida 10 hasta las cercanías del río Hudson se ha convertido en un epicentro del arte contemporáneo mundial. Los antiguos edificios y almacenes industriales cercanos a los muelles han sido apropiados por más de 350 galerías y estudios artísticos, entre ellas la <em>David Zwirner Gallery</em> en la foto del encabezado. De hecho, muchas de las galerías de <a href="http://www.newyorkando.com/barrios/manhattan/downtown/soho">SoHo</a> se han trasladado para esta zona, convirtiéndola en el corazón de las artes visuales de la ciudad.
+
+Chelsea tiene también otra particularidad y es la cantidad de establecimientos que ofrecen <strong>brunch</strong> durante los fines de semana, con menús que incluyen mimosas, bellinis, bloody maries y otros cocteles mañaneros. La mayoría de los restaurantes y cafés se ubican en las avenidas 9 y 10. Una idea para un sábado o un domingo totalmente neoyorquino es venir aquí por un Brunch y luego recorrer galerías, tal cual lo hacen los locales.
+
+Otra característica de Chelsea es que atrae a una enorme comunidad gay. Durante los brunchs están aquí a sus anchas, muchos de ellos acompañados de sus mascotas. Es que históricamente esta zona ha sido una de las más tolerantes de la ciudad, no en vano Andy Warhol filmó aquí su película experimental <em>Chelsea Girls</em> en 1966, con el <a href="/cierran-el-historico-hotel-chelsea-para-iniciar-obras-de-remodelacion" target="_blank">Hotel Chelsea</a> entre sus principales locaciones. Warhol estaba definitivamente fascinado por sus liberales habitantes, muchos de ellos asiduos de su <strong>Fábrica</strong> y vecinos de Chelsea.
+
+Chelsea también es un destino para los amantes de las antigüedades, cada sábado y domingo en la calle 25, entre la sexta y la séptima avenida, se instala el <strong>Antiques Garage</strong>, ciertamente más pequeño que el <strong>Flea Market</strong> de <a href="http://www.newyorkando.com/barrios/manhattan/midtown/hells-kitchen">Hell’s Kitchen</a>, pero que tiene la ventaja de estar cerca de magníficos cafés y restaurantes para tomar un brunch después de recorrerlo.
+
+<img class="alignnone size-full wp-image-391" title="Chelsea NewYorkando" src="http://www.newyorkando.com/wpnyando/wp-content/uploads/2011/06/Chelsea-NewYorkando.jpg" alt="" width="640" height="427" />
+
+Estando por la zona vale la pena empaparse de los colores y olores de rosas, tulipanes, peonías, orquídeas y otras especies exóticas, en el <strong>Chelsea’s Flower District</strong> ubicado en la 28th Street entre la 6th y 7th Avenue. O bien, acercarse al <strong>Chelsea Market</strong> (Avenida 9 entre las calles 15 y 16), antigua fábrica de galletas Nabisco convertida en locales comerciales que expenden delicatesses de todo el mundo. Sus precios no son muy económicos, pero es una buena opción para darse un gusto.
+
+A todo lo anterior hay que sumarle la inagotable vida nocturna de Chelsea. Un barrio que definitivamente hay <strong>que ver</strong>.
+<pre>Foto 1 de <a href="http://www.flickr.com/photos/sixteen-miles/4163558891/">Andrew Russeth</a> bajo una licencia Creative Commons (CC BY-SA 2.0)
+Foto 2 de <a href="http://www.flickr.com/photos/perspective/406766943/">Elvert Barnes</a> bajo una licencia Creative Commons (CC BY 2.0)</pre>";s:10:"post_title";s:7:"Chelsea";s:12:"post_excerpt";s:0:"";s:11:"post_status";s:7:"publish";s:14:"comment_status";s:6:"closed";s:11:"ping_status";s:4:"open";s:13:"post_password";s:0:"";s:9:"post_name";s:7:"chelsea";s:7:"to_ping";s:0:"";s:6:"pinged";s:0:"";s:13:"post_modified";s:19:"2012-11-30 19:11:12";s:17:"post_modified_gmt";s:19:"2012-11-30 19:11:12";s:21:"post_content_filtered";s:0:"";s:11:"post_parent";i:294;s:4:"guid";s:39:"http://www.newyorkando.com/?page_id=390";s:10:"menu_order";i:0;s:9:"post_type";s:4:"page";s:14:"post_mime_type";s:0:"";s:13:"comment_count";s:1:"0";s:6:"filter";s:3:"raw";}}

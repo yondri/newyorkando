@@ -1,0 +1,30 @@
+
+IOS<?php exit; ?>a:1:{s:7:"content";O:8:"stdClass":23:{s:2:"ID";s:3:"301";s:11:"post_author";s:1:"1";s:9:"post_date";s:19:"2011-03-29 13:27:03";s:13:"post_date_gmt";s:19:"2011-03-29 13:27:03";s:12:"post_content";s:4765:"<!--noadsense-->
+
+Si vas a <strong>visitar Nueva York</strong>, entonces estás en en lugar indicado para ir, <strong>no como un turista, sino como un conocedor</strong>.
+
+En nuestra <strong>guía de Nueva York</strong> encontrarás cosas que difícilmente podrás ver en otras páginas, porque son referencias de primera mano e independientes, nutridas por nuestras visitas a New York y sobre todo por muchas horas de películas, series y libros.
+<h2>¿Ya Sabes Qué Ver?</h2>
+New York es enorme y <strong>sin la guía de turismo correcta</strong> es fácil perderse de muchas de las cosas más importantes <a title="Qué Ver en Nueva York" href="/que-ver" target="_blank">que ver en Nueva York</a>. Organizamos la información en categorías como <a title="Barrios de Nueva York" href="/barrios" target="_blank">Barrios</a>, <a title="Museos" href="http://www.newyorkando.com/museos">Museos</a>, Espectáculos, e info útil como <a title="Transporte: metro, taxis, helicopteros y otros medios de transporte" href="http://www.newyorkando.com/transporte">transporte</a> o <a title="El tiempo" href="http://www.newyorkando.com/tiempo">el tiempo</a> para saber en qué época viajar y qué tipo de ropa llevar. Verás también muchas referencias pop, pues sobran las películas, series, músicos, artistas y libros relacionados con cada barrio de NY.
+
+En cada sección encontrarás más <strong>información sobre Nueva York</strong>. Sabrás cosas como que las mejores vistas de la <a title="Estatua de la Libertad" href="/monumentos/estatua-de-la-libertad" target="_blank">Estatua de la Libertad</a> son gratis (o puedes usar la <a title="New York Pass" href="/new-york-pass" target="_blank">New York Pass</a>), o que puedes ver la meca de los graffitis en 5 pointz, conocer la casa de Louis Armstrong o ir a un juego de béisbol en el Estadio de los Yankees. Después de <strong>muchas visitas</strong> a conocer Nueva York aprendimos que siempre muta y sorprende y esperamos sorprenderte también.
+
+<strong>Post Relacionados</strong>
+Las 10 cosas más importantes que hay que ver en Nueva York: <a title="Estatua de la Libertad" href="http://www.newyorkando.com/que-ver/monumentos/estatua-de-la-libertad" target="_blank">La Estatua de la Libertad</a>, <a title="Empire State Building" href="http://www.newyorkando.com/rascacielos/empire-state-building" target="_blank">Empire State Building</a>, <a title="Chrysler Building" href="http://www.newyorkando.com/rascacielos/chrysler-building" target="_blank">Chrysler Building, </a> <a title="Times Square" href="/barrios/manhattan/midtown/times-square" target="_blank">Times Square</a>, <a title="Central Park" href="http://www.newyorkando.com/central-park" target="_blank">Central Park</a>, <a title="Memorial del 11 de Septiembre" href="http://www.newyorkando.com/que-ver/monumentos/911-memorial" target="_blank">Memorial del 9/11</a>, <a title="Puente de Brooklyn" href="http://www.newyorkando.com/puente-de-brooklyn" target="_blank">Puente de Brooklyn</a>, <a title="Ferry a Staten Island" href="http://www.newyorkando.com/barrios/staten-island" target="_blank">Ferry a Staten Island</a> <a title="MoMa" href="http://www.newyorkando.com/museos/museum-of-modem-art-moma" target="_blank">MOMA</a> y el <a title="Museo de Arte Metropolitano" href="http://www.newyorkando.com/museos/metropolitan-museum-of-art-met" target="_blank">MET</a>
+<h2>¿Ya Tienes Dónde Dormir? Revisa nuestros Hoteles, hostales y Apartamentos</h2>
+Te recomendamos ver <strong>los pro y los contra</strong> de todas las opciones <a title="Recomendaciones dónde dormir en Nueva York" href="/donde-dormir" target="_blank">dónde dormir</a>. Nosotros adoramos quedarnos en un <a title="Apartamentos en Nueva York" href="/apartamentos" target="_blank">apartamento</a>, pero depende mucho del presupuesto y número de personas que viajan. Para informarte mira nuestros <strong>tips para saber qué </strong><a href="/hoteles">hoteles</a> y <a href="/hostales">hostales</a> te funcionan. En muchos no hace falta pagar nada por adelantado ni ningún tipo de comisión, es tan simple como pagar al llegar.
+
+Como siempre la recomendación es reservar con nuestra guía <strong>lo más pronto posible y hacerlo online</strong>, pues las agencias de viaje siempre sobrecargan los precios.
+
+<strong>Post Relacionados</strong>
+<ul>
+	<li><a title="5 Hoteles céntricos y baratos en Nueva York" href="http://www.newyorkando.com/5-hoteles-centricos-y-baratos-en-nueva-york">5 Hoteles céntricos y Baratos</a></li>
+	<li><a title="5 Hoteles con piscina en Nueva York" href="http://www.newyorkando.com/5-hoteles-con-piscina-en-nueva-york" target="_blank">5 Hoteles con Piscina en Nueva York</a></li>
+</ul>";s:10:"post_title";s:48:"Nueva York - Guía de turismo a la Gran Manzana ";s:12:"post_excerpt";s:0:"";s:11:"post_status";s:7:"publish";s:14:"comment_status";s:4:"open";s:11:"ping_status";s:4:"open";s:13:"post_password";s:0:"";s:9:"post_name";s:10:"nueva-york";s:7:"to_ping";s:0:"";s:6:"pinged";s:299:"http://www.newyorkando.com/museos
+http://www.newyorkando.com/museos
+http://www.newyorkando.com/que-ver
+http://www.newyorkando.com/espectaculos
+http://www.newyorkando.com/transporte
+http://www.newyorkando.com/tiempo
+http://www.newyorkando.com/hoteles/
+http://www.newyorkando.com/barrios/staten-island";s:13:"post_modified";s:19:"2013-11-05 19:50:25";s:17:"post_modified_gmt";s:19:"2013-11-05 19:50:25";s:21:"post_content_filtered";s:0:"";s:11:"post_parent";s:1:"0";s:4:"guid";s:33:"http://www.newyorkando.com/?p=301";s:10:"menu_order";s:1:"0";s:9:"post_type";s:4:"post";s:14:"post_mime_type";s:0:"";s:13:"comment_count";s:1:"0";}}

@@ -1,0 +1,15 @@
+�JOS<?php exit; ?>a:1:{s:7:"content";O:8:"stdClass":24:{s:2:"ID";i:202;s:11:"post_author";s:1:"2";s:9:"post_date";s:19:"2011-02-28 13:03:58";s:13:"post_date_gmt";s:19:"2011-02-28 13:03:58";s:12:"post_content";s:2280:"<img class="alignnone size-full wp-image-207" title="Flushing-NewYorkando" src="http://www.newyorkando.com/wpnyando/wp-content/uploads/2011/02/Flushing-NewYorkando.png" alt="" width="620" height="465" />
+<div class="asideBlock">
+<h3><strong>Transporte: </strong>
+Línea 7. Estación Flushing-Main St</h3>
+[mappress mapid="44"]
+
+</div>
+Flushing es la población más antigua de Queens, fundada originalmente como un asentamiento holandés. Hoy no escapa de la diversidad étnica, que es el denominador común de este distrito neoyorquino. Así lo demuestran las 138 lenguas que aquí se hablan según censos oficiales. Ahora bien, durante el siglo XX llegaron grandes oleadas de inmigrantes asiáticos, los que constituyen el 40% de sus residentes actuales dándole buena parte de su carácter.
+
+Otro grupo muy particular que se asentó en Flushing, y el vecino barrio Corona, fueron músicos de jazz afroamericanos que venían huyendo de la segregación racial. Importantes figuras como Louis Armstrong, Count Basie y Ella Fitzgerald hicieron de Queens su hogar, convirtiéndolo en un importante epicentro del Jazz. La casa donde <a href="http://www.newyorkando.com/museos/casa-de-louis-armstrong">Louis Armstrong</a> vivió durante 30 años fue convertida en museo, el cual resulta muy ilustrativo para quienes deseen entender esa compleja época.
+
+Los fans de las series de televisión norteamericanas seguramente recordarán este barrio como el hogar de "<em>the flashy girl from Flushing, the Nanny named Fran</em>", comedia en la cual aluden reiteradamente a la importante comunidad judía que aquí también vive.
+
+El <a href="http://www.newyorkando.com/parques/flushing-meadows-corona-park">Flushing Meadows Corona Park</a> es la mayor atracción del área. En este parque están ubicados el <a href="http://www.newyorkando.com/espectaculos/deportes/city-field-stadium">City Field Stadium</a>, la nueva sede de los Mets, y el <a href="http://www.newyorkando.com/museos/museo-de-arte-de-queens">Museo de Arte de Queens</a> con su enorme modelo a escala de toda la ciudad de Nueva York entre otros puntos de interés.
+<pre>Foto de <a href="http://www.flickr.com/photos/gooseotter/3422228381/">Otterman56</a> bajo una licencia Creative Commons (CC BY 2.0)</pre>";s:10:"post_title";s:9:"Flushing ";s:12:"post_excerpt";s:0:"";s:11:"post_status";s:7:"publish";s:14:"comment_status";s:4:"open";s:11:"ping_status";s:4:"open";s:13:"post_password";s:0:"";s:9:"post_name";s:8:"flushing";s:7:"to_ping";s:0:"";s:6:"pinged";s:0:"";s:13:"post_modified";s:19:"2011-03-14 17:07:43";s:17:"post_modified_gmt";s:19:"2011-03-14 17:07:43";s:21:"post_content_filtered";s:0:"";s:11:"post_parent";i:153;s:4:"guid";s:39:"http://www.newyorkando.com/?page_id=202";s:10:"menu_order";i:0;s:9:"post_type";s:4:"page";s:14:"post_mime_type";s:0:"";s:13:"comment_count";s:1:"0";s:6:"filter";s:3:"raw";}}
