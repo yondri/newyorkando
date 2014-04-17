@@ -48,6 +48,37 @@
             <li>© <?php echo date('Y') ?> NewYorkAndo</li>
         </ul><!-- G6.GS#footerOne -->
     </nav>
+    <div id="adsense_aside" style="display:none; margin:5px;">
+        <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+        <!-- Newyorkando Side 1 -->
+        <ins class="adsbygoogle"
+             style="display:inline-block;width:300px;height:250px"
+             data-ad-client="ca-pub-0064625008760983"
+             data-ad-slot="7596414703"></ins>
+
+        <!-- Newyorkando Side 2 -->
+        <div style="text-align: center;">
+            <ins class="adsbygoogle"
+                 style="display:inline-block;width:160px;height:600px"
+                 data-ad-client="ca-pub-0064625008760983"
+                 data-ad-slot="7596414703"></ins>
+        </div>
+        <script>
+        (adsbygoogle = window.adsbygoogle || []).push({});
+        </script>
+    </div>
+    <div id="adsense_related" style="display:none;">
+        <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+        <!-- Newyorkando Related content -->
+        <ins class="adsbygoogle"
+             style="display:inline-block;width:728px;height:90px"
+             data-ad-client="ca-pub-0064625008760983"
+             data-ad-slot="7596414703"></ins>
+        </div>
+        <script>
+        (adsbygoogle = window.adsbygoogle || []).push({});
+        </script>
+    </div>
 </footer>
 
 <script src="http://platform.twitter.com/anywhere.js?id=5tkByG68UteUZBFKSFryA&amp;v=1"></script>
@@ -62,6 +93,23 @@
 
     $(document).ready(function() {
         $(document).trigger('CORE:HAS_INITIALIZED');
+        $("#adsense_aside").appendTo(".asideBlock"); 
+        $("#adsense_aside").show();
+        //console.log('CARGA'+$(".nr_inner").html());
+
+        /*window.checker = setInterval(function(){
+            if($('.nr_inner').length>0){ //check if loaded
+                console.log('CARGA');
+                $("#adsense_related").prependTo(".nr_inner"); 
+                $("#adsense_related").show();
+                clearInterval(window.checker);
+            }    
+        },200);*/
+    });
+
+    $(window).load(function(){
+        $("#adsense_related").prependTo(".nr_inner"); 
+        //$("#adsense_related").show();
     });
     
     $(window).resize(function() {

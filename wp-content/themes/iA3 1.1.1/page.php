@@ -11,7 +11,6 @@
 <!--[if (gt IE 9)|!(IE)]><!--><html lang="<?php bloginfo('language'); ?>"><!--<![endif]-->
     <head>
         <?php @include('inc_head.php'); ?>
- 
     </head>   
 
     <body class="page">
