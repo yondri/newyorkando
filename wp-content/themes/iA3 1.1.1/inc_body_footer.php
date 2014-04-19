@@ -95,6 +95,8 @@
         $(document).trigger('CORE:HAS_INITIALIZED');
         $("#adsense_aside").appendTo(".asideBlock"); 
         $("#adsense_aside").show();
+        $("#adsense_related").prependTo(".nr_related_placeholder"); 
+        $("#adsense_related").show();
         //console.log('CARGA'+$(".nr_inner").html());
 
         /*window.checker = setInterval(function(){
@@ -107,11 +109,11 @@
         },200);*/
     });
 
-    $(window).load(function(){
+    /*$(window).load(function(){
         $("#adsense_related").prependTo(".nr_inner"); 
         //$("#adsense_related").show();
     });
-    
+*/    
     $(window).resize(function() {
         $(document).trigger('CORE:HAS_RESIZED');
     });
