@@ -1,5 +1,18 @@
 <footer>
-
+    <?php
+    if (is_home()) {
+        ?>
+        <!-- NY_Homepage_728x90_ps2 -->
+        <div id='div-gpt-ad-1398118147407-18' style='width:728px; height:90px; float:right;'>
+        <script type='text/javascript'>
+        googletag.cmd.push(function() { googletag.display('div-gpt-ad-1398118147407-18'); });
+        </script>
+        </div>
+        <?php
+    }else{
+        
+    }
+    ?>
     <nav>
         <ul class="containsGrid G6 GS" id="footerOne">
             <li class="G2 GS">
@@ -93,10 +106,10 @@
 
     $(document).ready(function() {
         $(document).trigger('CORE:HAS_INITIALIZED');
-        $("#adsense_aside").appendTo(".asideBlock"); 
+        /*$("#adsense_aside").appendTo(".asideBlock"); 
         $("#adsense_aside").show();
         $("#adsense_related").prependTo(".nr_related_placeholder"); 
-        $("#adsense_related").show();
+        $("#adsense_related").show();*/
         //console.log('CARGA'+$(".nr_inner").html());
 
         /*window.checker = setInterval(function(){
