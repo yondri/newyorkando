@@ -10,7 +10,16 @@
         </div>
         <?php
     }else{
-        
+        if($wp_query->queried_object->post_name == 'apartamentos' || $wp_query->queried_object->post_name == 'hoteles' || $wp_query->queried_object->post_name == 'hostales'){
+            ?>
+           <!-- NY_Alojamientos_728x90_ps2 -->
+            <div id='div-gpt-ad-1398118147407-3' style='width:728px; height:90px; float:right;'>
+            <script type='text/javascript'>
+            googletag.cmd.push(function() { googletag.display('div-gpt-ad-1398118147407-3'); });
+            </script>
+            </div>
+            <?php
+        }
     }
     ?>
     <nav>
@@ -92,6 +101,21 @@
         (adsbygoogle = window.adsbygoogle || []).push({});
         </script>
     </div>
+    <div id="alojamientos" style="display:none; text-align:center;">
+        <!-- NY_Alojamientos_300x250 -->
+        <div id='div-gpt-ad-1398118147407-1' style='width:300px; height:250px; display: inline-block;'>
+        <script type='text/javascript'>
+        googletag.cmd.push(function() { googletag.display('div-gpt-ad-1398118147407-1'); });
+        </script>
+        </div>
+
+        <!-- NY_Alojamientos_160x600 -->
+        <div id='div-gpt-ad-1398118147407-0' style='width:160px; height:600px; display: inline-block;'>
+        <script type='text/javascript'>
+        googletag.cmd.push(function() { googletag.display('div-gpt-ad-1398118147407-0'); });
+        </script>
+        </div>
+    </div>
 </footer>
 
 <script src="http://platform.twitter.com/anywhere.js?id=5tkByG68UteUZBFKSFryA&amp;v=1"></script>
@@ -106,27 +130,15 @@
 
     $(document).ready(function() {
         $(document).trigger('CORE:HAS_INITIALIZED');
-        /*$("#adsense_aside").appendTo(".asideBlock"); 
-        $("#adsense_aside").show();
-        $("#adsense_related").prependTo(".nr_related_placeholder"); 
-        $("#adsense_related").show();*/
-        //console.log('CARGA'+$(".nr_inner").html());
 
-        /*window.checker = setInterval(function(){
-            if($('.nr_inner').length>0){ //check if loaded
-                console.log('CARGA');
-                $("#adsense_related").prependTo(".nr_inner"); 
-                $("#adsense_related").show();
-                clearInterval(window.checker);
-            }    
-        },200);*/
+        // Incluir ads del sidebar dependiendo de la página visitada
+        var page = '<?php echo $wp_query->queried_object->post_name; ?>';
+        if(page == 'apartamentos' || page == 'hoteles' || page == 'hostales'){
+            $('#alojamientos').appendTo(".asideBlock");
+            $('#alojamientos').show();
+        }
     });
-
-    /*$(window).load(function(){
-        $("#adsense_related").prependTo(".nr_inner"); 
-        //$("#adsense_related").show();
-    });
-*/    
+   
     $(window).resize(function() {
         $(document).trigger('CORE:HAS_RESIZED');
     });

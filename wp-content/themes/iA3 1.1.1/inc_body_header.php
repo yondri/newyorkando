@@ -124,6 +124,15 @@ if (is_home()) {
     </div>
     <?php
 }else{
-    
+    if($wp_query->queried_object->post_name == 'apartamentos' || $wp_query->queried_object->post_name == 'hoteles' || $wp_query->queried_object->post_name == 'hostales'){
+        ?>
+        <!-- NY_Alojamientos_728x90_ps1 -->
+        <div id='div-gpt-ad-1398118147407-2' style='width:728px; height:90px; float:right;'>
+        <script type='text/javascript'>
+        googletag.cmd.push(function() { googletag.display('div-gpt-ad-1398118147407-2'); });
+        </script>
+        </div>
+        <?php
+    }
 }
 ?>
