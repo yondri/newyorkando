@@ -58,28 +58,28 @@ $featured_id = 0;
                         if (is_home()) {
                             ?>
                             <!-- NY_Homepage_160x600_ps1 -->
-                            <div id='div-gpt-ad-1398118147407-12' style='width:160px; height:600px; display: inline-block;'>
+                            <div id='div-gpt-ad-1398118147407-12' style='width:160px; height:600px; display: inline-block; margin-bottom: 10em;'>
                             <script type='text/javascript'>
                             googletag.cmd.push(function() { googletag.display('div-gpt-ad-1398118147407-12'); });
                             </script>
                             </div>
 
                             <!-- NY_Homepage_160x600_ps2 -->
-                            <div id='div-gpt-ad-1398118147407-13' style='width:160px; height:600px; display: inline-block;'>
+                            <div id='div-gpt-ad-1398118147407-13' style='width:160px; height:600px; display: inline-block; margin-bottom: 10em;'>
                             <script type='text/javascript'>
                             googletag.cmd.push(function() { googletag.display('div-gpt-ad-1398118147407-13'); });
                             </script>
                             </div>
 
                             <!-- NY_Homepage_300x250_ps1 -->
-                            <div id='div-gpt-ad-1398118147407-15' style='width:300px; height:250px; display: inline-block;'>
+                            <div id='div-gpt-ad-1398118147407-15' style='width:300px; height:250px; display: inline-block; margin-bottom: 10em;'>
                             <script type='text/javascript'>
                             googletag.cmd.push(function() { googletag.display('div-gpt-ad-1398118147407-15'); });
                             </script>
                             </div>
 
                             <!-- NY_Homepage_300x250_ps2 -->
-                            <div id='div-gpt-ad-1398118147407-16' style='width:300px; height:250px; display: inline-block;'>
+                            <div id='div-gpt-ad-1398118147407-16' style='width:300px; height:250px; display: inline-block; margin-bottom: 10em;'>
                             <script type='text/javascript'>
                             googletag.cmd.push(function() { googletag.display('div-gpt-ad-1398118147407-16'); });
                             </script>

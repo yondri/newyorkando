@@ -124,12 +124,46 @@ if (is_home()) {
     </div>
     <?php
 }else{
-    if($wp_query->queried_object->post_name == 'apartamentos' || $wp_query->queried_object->post_name == 'hoteles' || $wp_query->queried_object->post_name == 'hostales'){
+    $url = $_SERVER["HTTP_HOST"] . $_SERVER["REQUEST_URI"];
+    if(strpos($url,'apartamentos') !== false || strpos($url,'hoteles') !== false || strpos($url,'hostales') !== false){
         ?>
         <!-- NY_Alojamientos_728x90_ps1 -->
         <div id='div-gpt-ad-1398118147407-2' style='width:728px; height:90px; float:right;'>
         <script type='text/javascript'>
         googletag.cmd.push(function() { googletag.display('div-gpt-ad-1398118147407-2'); });
+        </script>
+        </div>
+        <?php
+    }
+
+    if(strpos($url,'que-ver') !== false || strpos($url,'barrios') !== false || strpos($url,'museos') !== false){
+        ?>
+        <!-- NY_Visitas_728x90_ps1 -->
+        <div id='div-gpt-ad-1398118147407-21' style='width:728px; height:90px; float:right;'>
+        <script type='text/javascript'>
+        googletag.cmd.push(function() { googletag.display('div-gpt-ad-1398118147407-21'); });
+        </script>
+        </div>
+        <?php
+    }
+
+    if(strpos($url,'visitas-guiadas') !== false || strpos($url,'new-york-pass') !== false){
+        ?>
+        <!-- NY_Excursiones_728x90_ps1 -->
+        <div id='div-gpt-ad-1398118147407-6' style='width:728px; height:90px; float:right;'>
+        <script type='text/javascript'>
+        googletag.cmd.push(function() { googletag.display('div-gpt-ad-1398118147407-6'); });
+        </script>
+        </div>
+        <?php
+    }
+
+    if(strpos($url,'entradas-para-broadway-con-descuento') !== false || strpos($url,'transporte') !== false || strpos($url,'como-ahorrar') !== false){
+        ?>
+        <!-- NY_Guia_Newyork_728x90_ps1 -->
+        <div id='div-gpt-ad-1398118147407-10' style='width:728px; height:90px; float:right;'>
+        <script type='text/javascript'>
+        googletag.cmd.push(function() { googletag.display('div-gpt-ad-1398118147407-10'); });
         </script>
         </div>
         <?php
