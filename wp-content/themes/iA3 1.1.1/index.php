@@ -35,6 +35,20 @@ $featured_id = 0;
                         <img alt="<?php the_title(); ?>" src="<?php $f = get_post_custom_values('featured_image'); echo isset($f[0])? $f[0]: 'http://www.placeholder-image.com/image/942x504';?>" />
                         <?php endif; ?>
                     </a>
+                    <?php // Header ad
+                    if ($_SERVER["REQUEST_URI"] == '/') {
+                        ?>
+                        <div style="margin-bottom: 1em;">
+                            <!-- NY_Homepage_728x90_ps1 -->
+                            <div id='div-gpt-ad-1398118147407-17' style='width:728px; height:90px; margin: 0 auto;'>
+                                <script type='text/javascript'>
+                                    googletag.cmd.push(function() { googletag.display('div-gpt-ad-1398118147407-17'); });
+                                </script>
+                            </div>
+                        </div>
+                        <?php
+                    }
+                    ?>
                     <hgroup>
                         <h1><?php the_title(); ?></h1>
                     </hgroup>
@@ -53,40 +67,40 @@ $featured_id = 0;
                         <p><em><?php echo trim(get_bloginfo('description'), '.'); ?></em>. <a href="<?php echo (defined('WP_SITEURL'))? WP_SITEURL: get_bloginfo('url'); ?>/profile/"><?php _e('Más', 'lisboando'); ?></a></p>
                     </div>
                     <?php endif; ?>
-                    <div style="text-align: center;">
+                    <div>
                         <?php
                         if (is_home()) {
                             ?>
                             <!-- NY_Homepage_160x600_ps1 -->
-                            <div id='div-gpt-ad-1398118147407-12' style='width:160px; height:600px; display: inline-block; margin-bottom: 10em;'>
+                            <div id='div-gpt-ad-1398118147407-12' style='width:160px; height:600px; margin: 0 auto; margin-bottom: 10em;'>
                             <script type='text/javascript'>
                             googletag.cmd.push(function() { googletag.display('div-gpt-ad-1398118147407-12'); });
                             </script>
                             </div>
 
                             <!-- NY_Homepage_160x600_ps2 -->
-                            <div id='div-gpt-ad-1398118147407-13' style='width:160px; height:600px; display: inline-block; margin-bottom: 10em;'>
+                            <div id='div-gpt-ad-1398118147407-13' style='width:160px; height:600px; margin: 0 auto; margin-bottom: 10em;'>
                             <script type='text/javascript'>
                             googletag.cmd.push(function() { googletag.display('div-gpt-ad-1398118147407-13'); });
                             </script>
                             </div>
 
                             <!-- NY_Homepage_300x250_ps1 -->
-                            <div id='div-gpt-ad-1398118147407-15' style='width:300px; height:250px; display: inline-block; margin-bottom: 10em;'>
+                            <div id='div-gpt-ad-1398118147407-15' style='width:300px; height:250px; margin: 0 auto; margin-bottom: 10em;'>
                             <script type='text/javascript'>
                             googletag.cmd.push(function() { googletag.display('div-gpt-ad-1398118147407-15'); });
                             </script>
                             </div>
 
                             <!-- NY_Homepage_300x250_ps2 -->
-                            <div id='div-gpt-ad-1398118147407-16' style='width:300px; height:250px; display: inline-block; margin-bottom: 10em;'>
+                            <div id='div-gpt-ad-1398118147407-16' style='width:300px; height:250px; margin: 0 auto; margin-bottom: 10em;'>
                             <script type='text/javascript'>
                             googletag.cmd.push(function() { googletag.display('div-gpt-ad-1398118147407-16'); });
                             </script>
                             </div>
 
                             <!-- NY_Homepage_160x600_ps3 -->
-                            <div id='div-gpt-ad-1398118147407-14' style='width:160px; height:600px; display: inline-block;'>
+                            <div id='div-gpt-ad-1398118147407-14' style='width:160px; height:600px; margin: 0 auto;'>
                             <script type='text/javascript'>
                             googletag.cmd.push(function() { googletag.display('div-gpt-ad-1398118147407-14'); });
                             </script>

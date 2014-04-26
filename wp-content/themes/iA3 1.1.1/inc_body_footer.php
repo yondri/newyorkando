@@ -9,51 +9,6 @@
         </script>
         </div>
         <?php
-    }else{
-        $url = $_SERVER["HTTP_HOST"] . $_SERVER["REQUEST_URI"];
-        if(strpos($url,'apartamentos') !== false || strpos($url,'hoteles') !== false || strpos($url,'hostales') !== false){
-            ?>
-           <!-- NY_Alojamientos_728x90_ps2 -->
-            <div id='div-gpt-ad-1398118147407-3' style='width:728px; height:90px; float:right;'>
-            <script type='text/javascript'>
-            googletag.cmd.push(function() { googletag.display('div-gpt-ad-1398118147407-3'); });
-            </script>
-            </div>
-            <?php
-        }
-
-        if(strpos($url,'que-ver') !== false || strpos($url,'barrios') !== false || strpos($url,'museos') !== false){
-            ?>
-            <!-- NY_Visitas_728x90_ps2 -->
-            <div id='div-gpt-ad-1398118147407-22' style='width:728px; height:90px; float:right;'>
-            <script type='text/javascript'>
-            googletag.cmd.push(function() { googletag.display('div-gpt-ad-1398118147407-22'); });
-            </script>
-            </div>
-            <?php
-        }
-
-        if(strpos($url,'visitas-guiadas') !== false || strpos($url,'new-york-pass') !== false){
-            ?>
-            <!-- NY_Excursiones_728x90_ps2 -->
-            <div id='div-gpt-ad-1398118147407-7' style='width:728px; height:90px; float:right;'>
-            <script type='text/javascript'>
-            googletag.cmd.push(function() { googletag.display('div-gpt-ad-1398118147407-7'); });
-            </script>
-            </div>
-            <?php
-        }
-
-        if(strpos($url,'entradas-para-broadway-con-descuento') !== false || strpos($url,'transporte') !== false || strpos($url,'como-ahorrar') !== false){
-            ?>
-            <!-- NY_Guia_Newyork_728x90_ps2 -->
-            <div id='div-gpt-ad-1398118147407-11' style='width:728px; height:90px; float:right;'>
-            <script type='text/javascript'>
-            googletag.cmd.push(function() { googletag.display('div-gpt-ad-1398118147407-11'); });
-            </script>
-            </div>
-            <?php
-        }
     }
     ?>
     <nav>
@@ -139,16 +94,16 @@
     $url = $_SERVER["HTTP_HOST"] . $_SERVER["REQUEST_URI"];
     if(strpos($url,'apartamentos') !== false || strpos($url,'hoteles') !== false || strpos($url,'hostales') !== false){
         ?>
-        <div id="alojamientos" style="display:none; text-align:center;">
+        <div id="alojamientos" style="display:none; margin-top: 2em;">
             <!-- NY_Alojamientos_300x250 -->
-            <div id='div-gpt-ad-1398118147407-1' style='width:300px; height:250px; display: inline-block; margin-bottom: 10em;'>
+            <div id='div-gpt-ad-1398118147407-1' style='width:300px; height:250px; display: margin: 0 auto; margin-bottom: 10em;'>
             <script type='text/javascript'>
             googletag.cmd.push(function() { googletag.display('div-gpt-ad-1398118147407-1'); });
             </script>
             </div>
 
             <!-- NY_Alojamientos_160x600 -->
-            <div id='div-gpt-ad-1398118147407-0' style='width:160px; height:600px; display: inline-block;'>
+            <div id='div-gpt-ad-1398118147407-0' style='width:160px; height:600px; margin: 0 auto;'>
             <script type='text/javascript'>
             googletag.cmd.push(function() { googletag.display('div-gpt-ad-1398118147407-0'); });
             </script>
@@ -159,16 +114,16 @@
 
     if(strpos($url,'que-ver') !== false || strpos($url,'barrios') !== false || strpos($url,'museos') !== false){
         ?>
-        <div id="visitas" style="display:none; text-align:center;">
+        <div id="visitas" style="display:none; margin-top: 2em;">
             <!-- NY_Visitas_300x250 -->
-            <div id='div-gpt-ad-1398118147407-20' style='width:300px; height:250px; display: inline-block; margin-bottom: 1em;'>
+            <div id='div-gpt-ad-1398118147407-20' style='width:300px; height:250px; margin: 0 auto; margin-bottom: 1em;'>
             <script type='text/javascript'>
             googletag.cmd.push(function() { googletag.display('div-gpt-ad-1398118147407-20'); });
             </script>
             </div>
 
             <!-- NY_Visitas_160x600 -->
-            <div id='div-gpt-ad-1398118147407-19' style='width:160px; height:600px; display: inline-block;'>
+            <div id='div-gpt-ad-1398118147407-19' style='width:160px; height:600px; margin: 0 auto;'>
             <script type='text/javascript'>
             googletag.cmd.push(function() { googletag.display('div-gpt-ad-1398118147407-19'); });
             </script>
@@ -179,16 +134,16 @@
 
     if(strpos($url,'visitas-guiadas') !== false || strpos($url,'new-york-pass') !== false){
         ?>
-        <div id="excursiones" style="display:none; text-align:center;">
+        <div id="excursiones" style="display:none; margin-top: 2em;">
             <!-- NY_Excursiones_300x250 -->
-            <div id='div-gpt-ad-1398118147407-5' style='width:300px; height:250px; display: inline-block; margin-bottom: 10em;'>
+            <div id='div-gpt-ad-1398118147407-5' style='width:300px; height:250px; margin: 0 auto; margin-bottom: 10em;'>
             <script type='text/javascript'>
             googletag.cmd.push(function() { googletag.display('div-gpt-ad-1398118147407-5'); });
             </script>
             </div>
 
             <!-- NY_Excursiones_160x600 -->
-            <div id='div-gpt-ad-1398118147407-4' style='width:160px; height:600px; display: inline-block;'>
+            <div id='div-gpt-ad-1398118147407-4' style='width:160px; height:600px; margin: 0 auto;'>
             <script type='text/javascript'>
             googletag.cmd.push(function() { googletag.display('div-gpt-ad-1398118147407-4'); });
             </script>
@@ -199,16 +154,16 @@
 
     if(strpos($url,'entradas-para-broadway-con-descuento') !== false || strpos($url,'transporte') !== false || strpos($url,'como-ahorrar') !== false){
         ?>
-        <div id="guia" style="display:none; text-align:center;">
+        <div id="guia" style="display:none; margin-top: 2em;">
             <!-- NY_Guia_Newyork_300x250 -->
-            <div id='div-gpt-ad-1398118147407-9' style='width:300px; height:250px; display: inline-block; margin-bottom: 10em;'>
+            <div id='div-gpt-ad-1398118147407-9' style='width:300px; height:250px; margin: 0 auto; margin-bottom: 10em;'>
             <script type='text/javascript'>
             googletag.cmd.push(function() { googletag.display('div-gpt-ad-1398118147407-9'); });
             </script>
             </div>
 
             <!-- NY_Guia_Newyork_160x600 -->
-            <div id='div-gpt-ad-1398118147407-8' style='width:160px; height:600px; display: inline-block;'>
+            <div id='div-gpt-ad-1398118147407-8' style='width:160px; height:600px; margin: 0 auto;'>
             <script type='text/javascript'>
             googletag.cmd.push(function() { googletag.display('div-gpt-ad-1398118147407-8'); });
             </script>
@@ -216,6 +171,61 @@
         </div>
         <?php
     }
+
+    // Ads para el footer en páginas
+    $url = $_SERVER["HTTP_HOST"] . $_SERVER["REQUEST_URI"];
+    if(strpos($url,'apartamentos') !== false || strpos($url,'hoteles') !== false || strpos($url,'hostales') !== false){
+        ?>
+        <div id="alojamientos_footer" style="display:none; margin-bottom: 1em;">
+           <!-- NY_Alojamientos_728x90_ps2 -->
+            <div id='div-gpt-ad-1398118147407-3' style='width:728px; height:90px; float:right;'>
+            <script type='text/javascript'>
+            googletag.cmd.push(function() { googletag.display('div-gpt-ad-1398118147407-3'); });
+            </script>
+            </div>
+        </div>
+        <?php
+    }
+
+    if(strpos($url,'que-ver') !== false || strpos($url,'barrios') !== false || strpos($url,'museos') !== false){
+        ?>
+        <div id="visitas_footer" style="display:none; margin-bottom: 1em;">
+            <!-- NY_Visitas_728x90_ps2 -->
+            <div id='div-gpt-ad-1398118147407-22' style='width:728px; height:90px; float:right;'>
+            <script type='text/javascript'>
+            googletag.cmd.push(function() { googletag.display('div-gpt-ad-1398118147407-22'); });
+            </script>
+            </div>
+        </div>
+        <?php
+    }
+
+    if(strpos($url,'visitas-guiadas') !== false || strpos($url,'new-york-pass') !== false){
+        ?>
+        <div id="excursiones_footer" style="display:none; margin-bottom: 1em;">
+            <!-- NY_Excursiones_728x90_ps2 -->
+            <div id='div-gpt-ad-1398118147407-7' style='width:728px; height:90px; float:right;'>
+            <script type='text/javascript'>
+            googletag.cmd.push(function() { googletag.display('div-gpt-ad-1398118147407-7'); });
+            </script>
+            </div>
+        </div>
+        <?php
+    }
+
+    if(strpos($url,'entradas-para-broadway-con-descuento') !== false || strpos($url,'transporte') !== false || strpos($url,'como-ahorrar') !== false){
+        ?>
+        <div id="guia_footer" style="display:none; margin-bottom: 1em;">
+            <!-- NY_Guia_Newyork_728x90_ps2 -->
+            <div id='div-gpt-ad-1398118147407-11' style='width:728px; height:90px; float:right;'>
+            <script type='text/javascript'>
+            googletag.cmd.push(function() { googletag.display('div-gpt-ad-1398118147407-11'); });
+            </script>
+            </div>
+        </div>
+        <?php
+    }
+
     ?>
 </footer>
 
@@ -239,22 +249,30 @@
         if(page.indexOf("apartamentos") > -1 || page.indexOf("hoteles") > -1 || page.indexOf("hostales") > -1){
             $('#alojamientos').appendTo(".asideBlock");
             $('#alojamientos').show();
+            $('.adsense-leadout').append($('#alojamientos_footer'));
+            $('#alojamientos_footer').show();
         }
 
         if(page.indexOf("que-ver") > -1 || page.indexOf("barrios") > -1 || page.indexOf("museos") > -1){
             console.log('Pasa barrios');
             $('#visitas').appendTo(".asideBlock");
             $('#visitas').show();
+            $('.adsense-leadout').append($('#visitas_footer'));
+            $('#visitas_footer').show();
         }
 
         if(page.indexOf("visitas-guiadas") > -1 || page.indexOf("new-york-pass") > -1){
             $('#excursiones').appendTo(".asideBlock");
             $('#excursiones').show();
+            $('.adsense-leadout').append($('#excursiones_footer'));
+            $('#excursiones_footer').show();
         }
 
         if(page.indexOf("entradas-para-broadway-con-descuento") > -1 || page.indexOf("transporte") > -1 || page.indexOf("como-ahorrar") > -1){
             $('#guia').appendTo(".asideBlock");
             $('#guia').show();
+            $('.adsense-leadout').append($('#guia_footer'));
+            $('#guia_footer').show();
         }
     });
    
