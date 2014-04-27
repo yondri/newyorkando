@@ -129,9 +129,7 @@ if (is_home()) {
         </script>
         </div>
         <?php
-    }
-
-    if(strpos($url,'que-ver') !== false || strpos($url,'barrios') !== false || strpos($url,'museos') !== false){
+    }else if(strpos($url,'que-ver') !== false || strpos($url,'barrios') !== false || strpos($url,'museos') !== false){
         ?>
         <!-- NY_Visitas_728x90_ps1 -->
         <div id='div-gpt-ad-1398118147407-21' style='width:728px; height:90px; float:right;'>
@@ -140,9 +138,7 @@ if (is_home()) {
         </script>
         </div>
         <?php
-    }
-
-    if(strpos($url,'visitas-guiadas') !== false || strpos($url,'new-york-pass') !== false){
+    }else if(strpos($url,'visitas-guiadas') !== false || strpos($url,'new-york-pass') !== false){
         ?>
         <!-- NY_Excursiones_728x90_ps1 -->
         <div id='div-gpt-ad-1398118147407-6' style='width:728px; height:90px; float:right;'>
@@ -151,14 +147,21 @@ if (is_home()) {
         </script>
         </div>
         <?php
-    }
-
-    if(strpos($url,'entradas-para-broadway-con-descuento') !== false || strpos($url,'transporte') !== false || strpos($url,'como-ahorrar') !== false){
+    }else if(strpos($url,'entradas-para-broadway-con-descuento') !== false || strpos($url,'transporte') !== false || strpos($url,'como-ahorrar') !== false){
         ?>
         <!-- NY_Guia_Newyork_728x90_ps1 -->
         <div id='div-gpt-ad-1398118147407-10' style='width:728px; height:90px; float:right;'>
         <script type='text/javascript'>
         googletag.cmd.push(function() { googletag.display('div-gpt-ad-1398118147407-10'); });
+        </script>
+        </div>
+        <?php
+    }else{
+        ?>
+        <!-- Aquì va el de los posts normales, mientras lo pasan està el de visitas guiadas -->
+        <div id='div-gpt-ad-1398118147407-6' style='width:728px; height:90px; float:right;'>
+        <script type='text/javascript'>
+        googletag.cmd.push(function() { googletag.display('div-gpt-ad-1398118147407-6'); });
         </script>
         </div>
         <?php
