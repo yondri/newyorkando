@@ -188,9 +188,9 @@
     $url = $_SERVER["HTTP_HOST"] . $_SERVER["REQUEST_URI"];
     if(strpos($url,'apartamentos') !== false || strpos($url,'hoteles') !== false || strpos($url,'hostales') !== false){
         ?>
-        <div id="alojamientos_footer" style="display:none; margin-bottom: 1em;">
+        <div id="alojamientos_footer" style="display:none;">
            <!-- NY_Alojamientos_728x90_ps2 -->
-            <div id='div-gpt-ad-1398118147407-3' style='width:728px; height:90px; float:right;'>
+            <div id='div-gpt-ad-1398118147407-3' style='width:728px; height:90px; float:right; margin-bottom: 3em;'>
             <script type='text/javascript'>
             googletag.cmd.push(function() { googletag.display('div-gpt-ad-1398118147407-3'); });
             </script>
@@ -201,7 +201,7 @@
         ?>
         <div id="visitas_footer" style="display:none; margin-bottom: 1em;">
             <!-- NY_Visitas_728x90_ps2 -->
-            <div id='div-gpt-ad-1398118147407-22' style='width:728px; height:90px; float:right;'>
+            <div id='div-gpt-ad-1398118147407-22' style='width:728px; height:90px; float:right; margin-bottom: 3em;'>
             <script type='text/javascript'>
             googletag.cmd.push(function() { googletag.display('div-gpt-ad-1398118147407-22'); });
             </script>
@@ -212,7 +212,7 @@
         ?>
         <div id="excursiones_footer" style="display:none; margin-bottom: 1em;">
             <!-- NY_Excursiones_728x90_ps2 -->
-            <div id='div-gpt-ad-1398118147407-7' style='width:728px; height:90px; float:right;'>
+            <div id='div-gpt-ad-1398118147407-7' style='width:728px; height:90px; float:right; margin-bottom: 3em;'>
             <script type='text/javascript'>
             googletag.cmd.push(function() { googletag.display('div-gpt-ad-1398118147407-7'); });
             </script>
@@ -223,7 +223,7 @@
         ?>
         <div id="guia_footer" style="display:none; margin-bottom: 1em;">
             <!-- NY_Guia_Newyork_728x90_ps2 -->
-            <div id='div-gpt-ad-1398118147407-11' style='width:728px; height:90px; float:right;'>
+            <div id='div-gpt-ad-1398118147407-11' style='width:728px; height:90px; float:right; margin-bottom: 3em;'>
             <script type='text/javascript'>
             googletag.cmd.push(function() { googletag.display('div-gpt-ad-1398118147407-11'); });
             </script>
@@ -232,9 +232,9 @@
         <?php
     }else{
         ?>
-        <div id="provisional_footer" style="display:none; margin-bottom: 1em;">
+        <div id="provisional_footer" style="display:none;">
             <!-- NY_Excursiones_728x90_ps2 -->
-            <div id='div-gpt-ad-1398118147407-7' style='width:728px; height:90px; float:right;'>
+            <div id='div-gpt-ad-1398118147407-7' style='width:728px; height:90px; float:right; margin-bottom: 3em;'>
             <script type='text/javascript'>
             googletag.cmd.push(function() { googletag.display('div-gpt-ad-1398118147407-7'); });
             </script>
@@ -262,34 +262,53 @@
         // Incluir ads del sidebar dependiendo de la página visitada
         //var page = '<?php echo $wp_query->queried_object->post_name; ?>';
         var page = '<?php echo $_SERVER["HTTP_HOST"] . $_SERVER["REQUEST_URI"] ?>';
-        console.log('URL: '+page);
+        //console.log('URL: '+page);
         if(page.indexOf("apartamentos") > -1 || page.indexOf("hoteles") > -1 || page.indexOf("hostales") > -1){
-            $('#alojamientos').appendTo(".asideBlock");
-            $('#alojamientos').show();
-            $('.adsense-leadout').append($('#alojamientos_footer'));
-            $('#alojamientos_footer').show();
+            if($(".asideBlock").length == 1){
+                $('#alojamientos').appendTo(".asideBlock");
+                $('#alojamientos').show();
+            }
+            if($(".adsense-leadout").length == 1){
+                $('.adsense-leadout').append($('#alojamientos_footer'));
+                $('#alojamientos_footer').show();
+            }
         }else if(page.indexOf("que-ver") > -1 || page.indexOf("barrios") > -1 || page.indexOf("museos") > -1){
-            console.log('Pasa barrios');
-            $('#visitas').appendTo(".asideBlock");
-            $('#visitas').show();
-            $('.adsense-leadout').append($('#visitas_footer'));
-            $('#visitas_footer').show();
+            if($(".asideBlock").length == 1){
+                $('#visitas').appendTo(".asideBlock");
+                $('#visitas').show();
+            }
+            if($(".adsense-leadout").length == 1){
+                $('.adsense-leadout').append($('#visitas_footer'));
+                $('#visitas_footer').show();
+            }
         }else if(page.indexOf("visitas-guiadas") > -1 || page.indexOf("new-york-pass") > -1){
-            $('#excursiones').appendTo(".asideBlock");
-            $('#excursiones').show();
-            $('.adsense-leadout').append($('#excursiones_footer'));
-            $('#excursiones_footer').show();
+            if($(".asideBlock").length == 1){
+                $('#excursiones').appendTo(".asideBlock");
+                $('#excursiones').show();
+            }
+            if($(".adsense-leadout").length == 1){
+                $('.adsense-leadout').append($('#excursiones_footer'));
+                $('#excursiones_footer').show();
+            }
         }else if(page.indexOf("entradas-para-broadway-con-descuento") > -1 || page.indexOf("transporte") > -1 || page.indexOf("como-ahorrar") > -1){
-            $('#guia').appendTo(".asideBlock");
-            $('#guia').show();
-            $('.adsense-leadout').append($('#guia_footer'));
-            $('#guia_footer').show();
+            if($(".asideBlock").length == 1){
+                $('#guia').appendTo(".asideBlock");
+                $('#guia').show();
+            }
+            if($(".adsense-leadout").length == 1){
+                $('.adsense-leadout').append($('#guia_footer'));
+                $('#guia_footer').show();
+            }
         }else{
             if(page != 'www.newyorkando.com/' && page != 'newyorkando.com/'){
-                $('#provisional').appendTo(".asideBlock");
-                $('#provisional').show();
-                $('.adsense-leadout').append($('#provisional_footer'));
-                $('#provisional_footer').show();
+                if($(".asideBlock").length == 1){
+                    $('#provisional').appendTo(".asideBlock");
+                    $('#provisional').show();
+                }
+                if($(".adsense-leadout").length == 1){
+                    $('.adsense-leadout').append($('#provisional_footer'));
+                    $('#provisional_footer').show();
+                }
             }
         }
     });

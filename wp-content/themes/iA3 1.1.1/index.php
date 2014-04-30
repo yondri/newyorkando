@@ -72,7 +72,7 @@ $featured_id = 0;
                         if (is_home()) {
                             ?>
                             <!-- NY_Homepage_160x600_ps1 -->
-                            <div id='div-gpt-ad-1398118147407-12' style='width:160px; height:600px; margin: 0 auto; margin-bottom: 10em;'>
+                            <div id='div-gpt-ad-1398118147407-12' style='width:160px; height:600px; margin: 0 auto; margin-bottom: 10em; margin-top: 5em;'>
                             <script type='text/javascript'>
                             googletag.cmd.push(function() { googletag.display('div-gpt-ad-1398118147407-12'); });
                             </script>
