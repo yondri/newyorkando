@@ -316,4 +316,11 @@
     if (function_exists('load_theme_textdomain')) {
         load_theme_textdomain('ia3', TEMPLATEPATH . '/languages');
     }
+
+    // set og tag to es_ES
+    add_filter('wpseo_locale', 'override_og_locale');
+    function override_og_locale($locale)
+    {
+        return "es_ES";
+    }
 ?>
